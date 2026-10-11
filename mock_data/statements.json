@@ -1,0 +1,1235 @@
+[
+  {
+    "statement_id": "STMT-CUST-1001-ACC-0001-01",
+    "customer_id": "CUST-1001",
+    "account_id": "ACC-0001-01",
+    "period": "2026-09",
+    "opening_balance": 27425.96,
+    "closing_balance": 350579.0,
+    "transaction_count": 23
+  },
+  {
+    "statement_id": "STMT-CUST-1002-ACC-0002-01",
+    "customer_id": "CUST-1002",
+    "account_id": "ACC-0002-01",
+    "period": "2026-09",
+    "opening_balance": 114865.63,
+    "closing_balance": 110250.14,
+    "transaction_count": 12
+  },
+  {
+    "statement_id": "STMT-CUST-1003-ACC-0003-01",
+    "customer_id": "CUST-1003",
+    "account_id": "ACC-0003-01",
+    "period": "2026-09",
+    "opening_balance": 129706.47,
+    "closing_balance": 477138.88,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1004-ACC-0004-01",
+    "customer_id": "CUST-1004",
+    "account_id": "ACC-0004-01",
+    "period": "2026-09",
+    "opening_balance": 243820.15,
+    "closing_balance": 357909.74,
+    "transaction_count": 29
+  },
+  {
+    "statement_id": "STMT-CUST-1004-ACC-0004-02",
+    "customer_id": "CUST-1004",
+    "account_id": "ACC-0004-02",
+    "period": "2026-09",
+    "opening_balance": 155173.58,
+    "closing_balance": 221859.54,
+    "transaction_count": 40
+  },
+  {
+    "statement_id": "STMT-CUST-1005-ACC-0005-01",
+    "customer_id": "CUST-1005",
+    "account_id": "ACC-0005-01",
+    "period": "2026-09",
+    "opening_balance": 298092.3,
+    "closing_balance": 214671.42,
+    "transaction_count": 19
+  },
+  {
+    "statement_id": "STMT-CUST-1006-ACC-0006-01",
+    "customer_id": "CUST-1006",
+    "account_id": "ACC-0006-01",
+    "period": "2026-09",
+    "opening_balance": 46410.68,
+    "closing_balance": 38918.06,
+    "transaction_count": 30
+  },
+  {
+    "statement_id": "STMT-CUST-1006-ACC-0006-02",
+    "customer_id": "CUST-1006",
+    "account_id": "ACC-0006-02",
+    "period": "2026-09",
+    "opening_balance": 260587.38,
+    "closing_balance": 204868.9,
+    "transaction_count": 23
+  },
+  {
+    "statement_id": "STMT-CUST-1006-ACC-0006-03",
+    "customer_id": "CUST-1006",
+    "account_id": "ACC-0006-03",
+    "period": "2026-09",
+    "opening_balance": 99203.86,
+    "closing_balance": 291564.93,
+    "transaction_count": 29
+  },
+  {
+    "statement_id": "STMT-CUST-1007-ACC-0007-01",
+    "customer_id": "CUST-1007",
+    "account_id": "ACC-0007-01",
+    "period": "2026-09",
+    "opening_balance": 220556.88,
+    "closing_balance": 84983.08,
+    "transaction_count": 34
+  },
+  {
+    "statement_id": "STMT-CUST-1008-ACC-0008-01",
+    "customer_id": "CUST-1008",
+    "account_id": "ACC-0008-01",
+    "period": "2026-09",
+    "opening_balance": 168828.29,
+    "closing_balance": 402106.39,
+    "transaction_count": 17
+  },
+  {
+    "statement_id": "STMT-CUST-1009-ACC-0009-01",
+    "customer_id": "CUST-1009",
+    "account_id": "ACC-0009-01",
+    "period": "2026-09",
+    "opening_balance": 53736.61,
+    "closing_balance": 256025.64,
+    "transaction_count": 31
+  },
+  {
+    "statement_id": "STMT-CUST-1009-ACC-0009-02",
+    "customer_id": "CUST-1009",
+    "account_id": "ACC-0009-02",
+    "period": "2026-09",
+    "opening_balance": 239282.67,
+    "closing_balance": 204188.19,
+    "transaction_count": 37
+  },
+  {
+    "statement_id": "STMT-CUST-1010-ACC-0010-01",
+    "customer_id": "CUST-1010",
+    "account_id": "ACC-0010-01",
+    "period": "2026-09",
+    "opening_balance": 254608.22,
+    "closing_balance": 492048.33,
+    "transaction_count": 48
+  },
+  {
+    "statement_id": "STMT-CUST-1011-ACC-0011-01",
+    "customer_id": "CUST-1011",
+    "account_id": "ACC-0011-01",
+    "period": "2026-09",
+    "opening_balance": 224093.89,
+    "closing_balance": 133299.82,
+    "transaction_count": 32
+  },
+  {
+    "statement_id": "STMT-CUST-1011-ACC-0011-02",
+    "customer_id": "CUST-1011",
+    "account_id": "ACC-0011-02",
+    "period": "2026-09",
+    "opening_balance": 57451.82,
+    "closing_balance": 384077.77,
+    "transaction_count": 26
+  },
+  {
+    "statement_id": "STMT-CUST-1012-ACC-0012-01",
+    "customer_id": "CUST-1012",
+    "account_id": "ACC-0012-01",
+    "period": "2026-09",
+    "opening_balance": 176701.29,
+    "closing_balance": 94955.87,
+    "transaction_count": 21
+  },
+  {
+    "statement_id": "STMT-CUST-1013-ACC-0013-01",
+    "customer_id": "CUST-1013",
+    "account_id": "ACC-0013-01",
+    "period": "2026-09",
+    "opening_balance": 14985.65,
+    "closing_balance": 390006.98,
+    "transaction_count": 35
+  },
+  {
+    "statement_id": "STMT-CUST-1014-ACC-0014-01",
+    "customer_id": "CUST-1014",
+    "account_id": "ACC-0014-01",
+    "period": "2026-09",
+    "opening_balance": 201378.19,
+    "closing_balance": 412053.8,
+    "transaction_count": 27
+  },
+  {
+    "statement_id": "STMT-CUST-1015-ACC-0015-01",
+    "customer_id": "CUST-1015",
+    "account_id": "ACC-0015-01",
+    "period": "2026-09",
+    "opening_balance": 242298.66,
+    "closing_balance": 279812.22,
+    "transaction_count": 15
+  },
+  {
+    "statement_id": "STMT-CUST-1016-ACC-0016-01",
+    "customer_id": "CUST-1016",
+    "account_id": "ACC-0016-01",
+    "period": "2026-09",
+    "opening_balance": 232260.33,
+    "closing_balance": 490352.76,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1017-ACC-0017-01",
+    "customer_id": "CUST-1017",
+    "account_id": "ACC-0017-01",
+    "period": "2026-09",
+    "opening_balance": 204468.38,
+    "closing_balance": 80104.87,
+    "transaction_count": 49
+  },
+  {
+    "statement_id": "STMT-CUST-1018-ACC-0018-01",
+    "customer_id": "CUST-1018",
+    "account_id": "ACC-0018-01",
+    "period": "2026-09",
+    "opening_balance": 152986.71,
+    "closing_balance": 471624.74,
+    "transaction_count": 22
+  },
+  {
+    "statement_id": "STMT-CUST-1019-ACC-0019-01",
+    "customer_id": "CUST-1019",
+    "account_id": "ACC-0019-01",
+    "period": "2026-09",
+    "opening_balance": 168543.57,
+    "closing_balance": 208764.32,
+    "transaction_count": 15
+  },
+  {
+    "statement_id": "STMT-CUST-1020-ACC-0020-01",
+    "customer_id": "CUST-1020",
+    "account_id": "ACC-0020-01",
+    "period": "2026-09",
+    "opening_balance": 164046.96,
+    "closing_balance": 356342.5,
+    "transaction_count": 39
+  },
+  {
+    "statement_id": "STMT-CUST-1020-ACC-0020-02",
+    "customer_id": "CUST-1020",
+    "account_id": "ACC-0020-02",
+    "period": "2026-09",
+    "opening_balance": 82232.51,
+    "closing_balance": 278364.45,
+    "transaction_count": 37
+  },
+  {
+    "statement_id": "STMT-CUST-1020-ACC-0020-03",
+    "customer_id": "CUST-1020",
+    "account_id": "ACC-0020-03",
+    "period": "2026-09",
+    "opening_balance": 77715.5,
+    "closing_balance": 233416.71,
+    "transaction_count": 24
+  },
+  {
+    "statement_id": "STMT-CUST-1021-ACC-0021-01",
+    "customer_id": "CUST-1021",
+    "account_id": "ACC-0021-01",
+    "period": "2026-09",
+    "opening_balance": 107835.32,
+    "closing_balance": 230395.59,
+    "transaction_count": 47
+  },
+  {
+    "statement_id": "STMT-CUST-1022-ACC-0022-01",
+    "customer_id": "CUST-1022",
+    "account_id": "ACC-0022-01",
+    "period": "2026-09",
+    "opening_balance": 238796.96,
+    "closing_balance": 190546.34,
+    "transaction_count": 42
+  },
+  {
+    "statement_id": "STMT-CUST-1022-ACC-0022-02",
+    "customer_id": "CUST-1022",
+    "account_id": "ACC-0022-02",
+    "period": "2026-09",
+    "opening_balance": 263585.14,
+    "closing_balance": 285134.39,
+    "transaction_count": 42
+  },
+  {
+    "statement_id": "STMT-CUST-1023-ACC-0023-01",
+    "customer_id": "CUST-1023",
+    "account_id": "ACC-0023-01",
+    "period": "2026-09",
+    "opening_balance": 243824.55,
+    "closing_balance": 455755.39,
+    "transaction_count": 14
+  },
+  {
+    "statement_id": "STMT-CUST-1023-ACC-0023-02",
+    "customer_id": "CUST-1023",
+    "account_id": "ACC-0023-02",
+    "period": "2026-09",
+    "opening_balance": 163188.18,
+    "closing_balance": 388991.78,
+    "transaction_count": 27
+  },
+  {
+    "statement_id": "STMT-CUST-1024-ACC-0024-01",
+    "customer_id": "CUST-1024",
+    "account_id": "ACC-0024-01",
+    "period": "2026-09",
+    "opening_balance": 180139.08,
+    "closing_balance": 378304.99,
+    "transaction_count": 36
+  },
+  {
+    "statement_id": "STMT-CUST-1025-ACC-0025-01",
+    "customer_id": "CUST-1025",
+    "account_id": "ACC-0025-01",
+    "period": "2026-09",
+    "opening_balance": 165683.7,
+    "closing_balance": 497984.05,
+    "transaction_count": 35
+  },
+  {
+    "statement_id": "STMT-CUST-1026-ACC-0026-01",
+    "customer_id": "CUST-1026",
+    "account_id": "ACC-0026-01",
+    "period": "2026-09",
+    "opening_balance": 127493.97,
+    "closing_balance": 333070.53,
+    "transaction_count": 11
+  },
+  {
+    "statement_id": "STMT-CUST-1026-ACC-0026-02",
+    "customer_id": "CUST-1026",
+    "account_id": "ACC-0026-02",
+    "period": "2026-09",
+    "opening_balance": 110721.84,
+    "closing_balance": 30036.36,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1027-ACC-0027-01",
+    "customer_id": "CUST-1027",
+    "account_id": "ACC-0027-01",
+    "period": "2026-09",
+    "opening_balance": 246802.02,
+    "closing_balance": 240741.75,
+    "transaction_count": 12
+  },
+  {
+    "statement_id": "STMT-CUST-1028-ACC-0028-01",
+    "customer_id": "CUST-1028",
+    "account_id": "ACC-0028-01",
+    "period": "2026-09",
+    "opening_balance": 62706.0,
+    "closing_balance": 229589.13,
+    "transaction_count": 20
+  },
+  {
+    "statement_id": "STMT-CUST-1028-ACC-0028-02",
+    "customer_id": "CUST-1028",
+    "account_id": "ACC-0028-02",
+    "period": "2026-09",
+    "opening_balance": 246401.49,
+    "closing_balance": 397582.57,
+    "transaction_count": 33
+  },
+  {
+    "statement_id": "STMT-CUST-1028-ACC-0028-03",
+    "customer_id": "CUST-1028",
+    "account_id": "ACC-0028-03",
+    "period": "2026-09",
+    "opening_balance": 100190.6,
+    "closing_balance": 217884.62,
+    "transaction_count": 27
+  },
+  {
+    "statement_id": "STMT-CUST-1029-ACC-0029-01",
+    "customer_id": "CUST-1029",
+    "account_id": "ACC-0029-01",
+    "period": "2026-09",
+    "opening_balance": 33855.9,
+    "closing_balance": 285328.94,
+    "transaction_count": 21
+  },
+  {
+    "statement_id": "STMT-CUST-1030-ACC-0030-01",
+    "customer_id": "CUST-1030",
+    "account_id": "ACC-0030-01",
+    "period": "2026-09",
+    "opening_balance": 81669.02,
+    "closing_balance": 252629.86,
+    "transaction_count": 11
+  },
+  {
+    "statement_id": "STMT-CUST-1031-ACC-0031-01",
+    "customer_id": "CUST-1031",
+    "account_id": "ACC-0031-01",
+    "period": "2026-09",
+    "opening_balance": 44354.52,
+    "closing_balance": 114678.17,
+    "transaction_count": 35
+  },
+  {
+    "statement_id": "STMT-CUST-1032-ACC-0032-01",
+    "customer_id": "CUST-1032",
+    "account_id": "ACC-0032-01",
+    "period": "2026-09",
+    "opening_balance": 24777.73,
+    "closing_balance": 234042.27,
+    "transaction_count": 49
+  },
+  {
+    "statement_id": "STMT-CUST-1032-ACC-0032-02",
+    "customer_id": "CUST-1032",
+    "account_id": "ACC-0032-02",
+    "period": "2026-09",
+    "opening_balance": 225752.51,
+    "closing_balance": 227618.18,
+    "transaction_count": 43
+  },
+  {
+    "statement_id": "STMT-CUST-1033-ACC-0033-01",
+    "customer_id": "CUST-1033",
+    "account_id": "ACC-0033-01",
+    "period": "2026-09",
+    "opening_balance": 132926.34,
+    "closing_balance": 363248.16,
+    "transaction_count": 25
+  },
+  {
+    "statement_id": "STMT-CUST-1033-ACC-0033-02",
+    "customer_id": "CUST-1033",
+    "account_id": "ACC-0033-02",
+    "period": "2026-09",
+    "opening_balance": 154034.67,
+    "closing_balance": 170014.21,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1034-ACC-0034-01",
+    "customer_id": "CUST-1034",
+    "account_id": "ACC-0034-01",
+    "period": "2026-09",
+    "opening_balance": 216923.69,
+    "closing_balance": 483302.74,
+    "transaction_count": 42
+  },
+  {
+    "statement_id": "STMT-CUST-1034-ACC-0034-02",
+    "customer_id": "CUST-1034",
+    "account_id": "ACC-0034-02",
+    "period": "2026-09",
+    "opening_balance": 121664.66,
+    "closing_balance": 437135.95,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1035-ACC-0035-01",
+    "customer_id": "CUST-1035",
+    "account_id": "ACC-0035-01",
+    "period": "2026-09",
+    "opening_balance": 68764.37,
+    "closing_balance": 149179.63,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1036-ACC-0036-01",
+    "customer_id": "CUST-1036",
+    "account_id": "ACC-0036-01",
+    "period": "2026-09",
+    "opening_balance": 299855.73,
+    "closing_balance": 490505.5,
+    "transaction_count": 22
+  },
+  {
+    "statement_id": "STMT-CUST-1037-ACC-0037-01",
+    "customer_id": "CUST-1037",
+    "account_id": "ACC-0037-01",
+    "period": "2026-09",
+    "opening_balance": 40460.03,
+    "closing_balance": 309351.48,
+    "transaction_count": 38
+  },
+  {
+    "statement_id": "STMT-CUST-1038-ACC-0038-01",
+    "customer_id": "CUST-1038",
+    "account_id": "ACC-0038-01",
+    "period": "2026-09",
+    "opening_balance": 169720.05,
+    "closing_balance": 134579.45,
+    "transaction_count": 47
+  },
+  {
+    "statement_id": "STMT-CUST-1039-ACC-0039-01",
+    "customer_id": "CUST-1039",
+    "account_id": "ACC-0039-01",
+    "period": "2026-09",
+    "opening_balance": 190640.32,
+    "closing_balance": 265219.35,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1040-ACC-0040-01",
+    "customer_id": "CUST-1040",
+    "account_id": "ACC-0040-01",
+    "period": "2026-09",
+    "opening_balance": 33252.75,
+    "closing_balance": 322744.11,
+    "transaction_count": 27
+  },
+  {
+    "statement_id": "STMT-CUST-1041-ACC-0041-01",
+    "customer_id": "CUST-1041",
+    "account_id": "ACC-0041-01",
+    "period": "2026-09",
+    "opening_balance": 19405.78,
+    "closing_balance": 98967.88,
+    "transaction_count": 10
+  },
+  {
+    "statement_id": "STMT-CUST-1041-ACC-0041-02",
+    "customer_id": "CUST-1041",
+    "account_id": "ACC-0041-02",
+    "period": "2026-09",
+    "opening_balance": 70858.41,
+    "closing_balance": 251886.06,
+    "transaction_count": 40
+  },
+  {
+    "statement_id": "STMT-CUST-1042-ACC-0042-01",
+    "customer_id": "CUST-1042",
+    "account_id": "ACC-0042-01",
+    "period": "2026-09",
+    "opening_balance": 245854.5,
+    "closing_balance": 413529.1,
+    "transaction_count": 25
+  },
+  {
+    "statement_id": "STMT-CUST-1043-ACC-0043-01",
+    "customer_id": "CUST-1043",
+    "account_id": "ACC-0043-01",
+    "period": "2026-09",
+    "opening_balance": 41011.97,
+    "closing_balance": 187337.12,
+    "transaction_count": 41
+  },
+  {
+    "statement_id": "STMT-CUST-1044-ACC-0044-01",
+    "customer_id": "CUST-1044",
+    "account_id": "ACC-0044-01",
+    "period": "2026-09",
+    "opening_balance": 226786.18,
+    "closing_balance": 282638.95,
+    "transaction_count": 47
+  },
+  {
+    "statement_id": "STMT-CUST-1045-ACC-0045-01",
+    "customer_id": "CUST-1045",
+    "account_id": "ACC-0045-01",
+    "period": "2026-09",
+    "opening_balance": 248564.34,
+    "closing_balance": 206419.19,
+    "transaction_count": 45
+  },
+  {
+    "statement_id": "STMT-CUST-1045-ACC-0045-02",
+    "customer_id": "CUST-1045",
+    "account_id": "ACC-0045-02",
+    "period": "2026-09",
+    "opening_balance": 130332.85,
+    "closing_balance": 327016.65,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1046-ACC-0046-01",
+    "customer_id": "CUST-1046",
+    "account_id": "ACC-0046-01",
+    "period": "2026-09",
+    "opening_balance": 266541.57,
+    "closing_balance": 229902.79,
+    "transaction_count": 34
+  },
+  {
+    "statement_id": "STMT-CUST-1047-ACC-0047-01",
+    "customer_id": "CUST-1047",
+    "account_id": "ACC-0047-01",
+    "period": "2026-09",
+    "opening_balance": 266390.77,
+    "closing_balance": 346693.74,
+    "transaction_count": 19
+  },
+  {
+    "statement_id": "STMT-CUST-1048-ACC-0048-01",
+    "customer_id": "CUST-1048",
+    "account_id": "ACC-0048-01",
+    "period": "2026-09",
+    "opening_balance": 230562.29,
+    "closing_balance": 288487.33,
+    "transaction_count": 32
+  },
+  {
+    "statement_id": "STMT-CUST-1048-ACC-0048-02",
+    "customer_id": "CUST-1048",
+    "account_id": "ACC-0048-02",
+    "period": "2026-09",
+    "opening_balance": 208285.44,
+    "closing_balance": 427970.57,
+    "transaction_count": 49
+  },
+  {
+    "statement_id": "STMT-CUST-1049-ACC-0049-01",
+    "customer_id": "CUST-1049",
+    "account_id": "ACC-0049-01",
+    "period": "2026-09",
+    "opening_balance": 293553.09,
+    "closing_balance": 268307.14,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1049-ACC-0049-02",
+    "customer_id": "CUST-1049",
+    "account_id": "ACC-0049-02",
+    "period": "2026-09",
+    "opening_balance": 219309.98,
+    "closing_balance": 233009.51,
+    "transaction_count": 26
+  },
+  {
+    "statement_id": "STMT-CUST-1050-ACC-0050-01",
+    "customer_id": "CUST-1050",
+    "account_id": "ACC-0050-01",
+    "period": "2026-09",
+    "opening_balance": 38571.43,
+    "closing_balance": 290850.03,
+    "transaction_count": 28
+  },
+  {
+    "statement_id": "STMT-CUST-1050-ACC-0050-02",
+    "customer_id": "CUST-1050",
+    "account_id": "ACC-0050-02",
+    "period": "2026-09",
+    "opening_balance": 255166.29,
+    "closing_balance": 122267.5,
+    "transaction_count": 50
+  },
+  {
+    "statement_id": "STMT-CUST-1051-ACC-0051-01",
+    "customer_id": "CUST-1051",
+    "account_id": "ACC-0051-01",
+    "period": "2026-09",
+    "opening_balance": 145331.21,
+    "closing_balance": 468894.08,
+    "transaction_count": 43
+  },
+  {
+    "statement_id": "STMT-CUST-1052-ACC-0052-01",
+    "customer_id": "CUST-1052",
+    "account_id": "ACC-0052-01",
+    "period": "2026-09",
+    "opening_balance": 105310.46,
+    "closing_balance": 277568.05,
+    "transaction_count": 33
+  },
+  {
+    "statement_id": "STMT-CUST-1053-ACC-0053-01",
+    "customer_id": "CUST-1053",
+    "account_id": "ACC-0053-01",
+    "period": "2026-09",
+    "opening_balance": 277166.7,
+    "closing_balance": 331345.75,
+    "transaction_count": 50
+  },
+  {
+    "statement_id": "STMT-CUST-1054-ACC-0054-01",
+    "customer_id": "CUST-1054",
+    "account_id": "ACC-0054-01",
+    "period": "2026-09",
+    "opening_balance": 44939.3,
+    "closing_balance": 252429.9,
+    "transaction_count": 23
+  },
+  {
+    "statement_id": "STMT-CUST-1055-ACC-0055-01",
+    "customer_id": "CUST-1055",
+    "account_id": "ACC-0055-01",
+    "period": "2026-09",
+    "opening_balance": 287879.28,
+    "closing_balance": 195003.88,
+    "transaction_count": 31
+  },
+  {
+    "statement_id": "STMT-CUST-1055-ACC-0055-02",
+    "customer_id": "CUST-1055",
+    "account_id": "ACC-0055-02",
+    "period": "2026-09",
+    "opening_balance": 74802.49,
+    "closing_balance": 252892.46,
+    "transaction_count": 43
+  },
+  {
+    "statement_id": "STMT-CUST-1056-ACC-0056-01",
+    "customer_id": "CUST-1056",
+    "account_id": "ACC-0056-01",
+    "period": "2026-09",
+    "opening_balance": 58038.06,
+    "closing_balance": 11108.6,
+    "transaction_count": 17
+  },
+  {
+    "statement_id": "STMT-CUST-1057-ACC-0057-01",
+    "customer_id": "CUST-1057",
+    "account_id": "ACC-0057-01",
+    "period": "2026-09",
+    "opening_balance": 16563.81,
+    "closing_balance": 403017.85,
+    "transaction_count": 20
+  },
+  {
+    "statement_id": "STMT-CUST-1058-ACC-0058-01",
+    "customer_id": "CUST-1058",
+    "account_id": "ACC-0058-01",
+    "period": "2026-09",
+    "opening_balance": 171852.4,
+    "closing_balance": 124800.48,
+    "transaction_count": 38
+  },
+  {
+    "statement_id": "STMT-CUST-1058-ACC-0058-02",
+    "customer_id": "CUST-1058",
+    "account_id": "ACC-0058-02",
+    "period": "2026-09",
+    "opening_balance": 161550.01,
+    "closing_balance": 395593.0,
+    "transaction_count": 10
+  },
+  {
+    "statement_id": "STMT-CUST-1059-ACC-0059-01",
+    "customer_id": "CUST-1059",
+    "account_id": "ACC-0059-01",
+    "period": "2026-09",
+    "opening_balance": 146785.42,
+    "closing_balance": 62454.32,
+    "transaction_count": 39
+  },
+  {
+    "statement_id": "STMT-CUST-1060-ACC-0060-01",
+    "customer_id": "CUST-1060",
+    "account_id": "ACC-0060-01",
+    "period": "2026-09",
+    "opening_balance": 183635.85,
+    "closing_balance": 197473.71,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1060-ACC-0060-02",
+    "customer_id": "CUST-1060",
+    "account_id": "ACC-0060-02",
+    "period": "2026-09",
+    "opening_balance": 217367.07,
+    "closing_balance": 142780.69,
+    "transaction_count": 39
+  },
+  {
+    "statement_id": "STMT-CUST-1061-ACC-0061-01",
+    "customer_id": "CUST-1061",
+    "account_id": "ACC-0061-01",
+    "period": "2026-09",
+    "opening_balance": 42465.82,
+    "closing_balance": 189786.51,
+    "transaction_count": 36
+  },
+  {
+    "statement_id": "STMT-CUST-1062-ACC-0062-01",
+    "customer_id": "CUST-1062",
+    "account_id": "ACC-0062-01",
+    "period": "2026-09",
+    "opening_balance": 40677.25,
+    "closing_balance": 271116.27,
+    "transaction_count": 11
+  },
+  {
+    "statement_id": "STMT-CUST-1063-ACC-0063-01",
+    "customer_id": "CUST-1063",
+    "account_id": "ACC-0063-01",
+    "period": "2026-09",
+    "opening_balance": 170232.19,
+    "closing_balance": 165208.54,
+    "transaction_count": 42
+  },
+  {
+    "statement_id": "STMT-CUST-1064-ACC-0064-01",
+    "customer_id": "CUST-1064",
+    "account_id": "ACC-0064-01",
+    "period": "2026-09",
+    "opening_balance": 42209.78,
+    "closing_balance": 475375.77,
+    "transaction_count": 49
+  },
+  {
+    "statement_id": "STMT-CUST-1064-ACC-0064-02",
+    "customer_id": "CUST-1064",
+    "account_id": "ACC-0064-02",
+    "period": "2026-09",
+    "opening_balance": 146294.68,
+    "closing_balance": 435109.34,
+    "transaction_count": 19
+  },
+  {
+    "statement_id": "STMT-CUST-1065-ACC-0065-01",
+    "customer_id": "CUST-1065",
+    "account_id": "ACC-0065-01",
+    "period": "2026-09",
+    "opening_balance": 47635.76,
+    "closing_balance": 30634.7,
+    "transaction_count": 22
+  },
+  {
+    "statement_id": "STMT-CUST-1066-ACC-0066-01",
+    "customer_id": "CUST-1066",
+    "account_id": "ACC-0066-01",
+    "period": "2026-09",
+    "opening_balance": 206285.37,
+    "closing_balance": 186943.04,
+    "transaction_count": 47
+  },
+  {
+    "statement_id": "STMT-CUST-1066-ACC-0066-02",
+    "customer_id": "CUST-1066",
+    "account_id": "ACC-0066-02",
+    "period": "2026-09",
+    "opening_balance": 193785.55,
+    "closing_balance": 387862.94,
+    "transaction_count": 34
+  },
+  {
+    "statement_id": "STMT-CUST-1067-ACC-0067-01",
+    "customer_id": "CUST-1067",
+    "account_id": "ACC-0067-01",
+    "period": "2026-09",
+    "opening_balance": 82881.12,
+    "closing_balance": 390589.98,
+    "transaction_count": 41
+  },
+  {
+    "statement_id": "STMT-CUST-1068-ACC-0068-01",
+    "customer_id": "CUST-1068",
+    "account_id": "ACC-0068-01",
+    "period": "2026-09",
+    "opening_balance": 234719.24,
+    "closing_balance": 142346.53,
+    "transaction_count": 44
+  },
+  {
+    "statement_id": "STMT-CUST-1069-ACC-0069-01",
+    "customer_id": "CUST-1069",
+    "account_id": "ACC-0069-01",
+    "period": "2026-09",
+    "opening_balance": 67409.99,
+    "closing_balance": 250593.05,
+    "transaction_count": 31
+  },
+  {
+    "statement_id": "STMT-CUST-1069-ACC-0069-02",
+    "customer_id": "CUST-1069",
+    "account_id": "ACC-0069-02",
+    "period": "2026-09",
+    "opening_balance": 252875.37,
+    "closing_balance": 252306.95,
+    "transaction_count": 12
+  },
+  {
+    "statement_id": "STMT-CUST-1070-ACC-0070-01",
+    "customer_id": "CUST-1070",
+    "account_id": "ACC-0070-01",
+    "period": "2026-09",
+    "opening_balance": 139748.52,
+    "closing_balance": 115476.61,
+    "transaction_count": 36
+  },
+  {
+    "statement_id": "STMT-CUST-1071-ACC-0071-01",
+    "customer_id": "CUST-1071",
+    "account_id": "ACC-0071-01",
+    "period": "2026-09",
+    "opening_balance": 172300.88,
+    "closing_balance": 248554.29,
+    "transaction_count": 16
+  },
+  {
+    "statement_id": "STMT-CUST-1072-ACC-0072-01",
+    "customer_id": "CUST-1072",
+    "account_id": "ACC-0072-01",
+    "period": "2026-09",
+    "opening_balance": 270904.39,
+    "closing_balance": 404760.47,
+    "transaction_count": 10
+  },
+  {
+    "statement_id": "STMT-CUST-1072-ACC-0072-02",
+    "customer_id": "CUST-1072",
+    "account_id": "ACC-0072-02",
+    "period": "2026-09",
+    "opening_balance": 62797.74,
+    "closing_balance": 111435.29,
+    "transaction_count": 28
+  },
+  {
+    "statement_id": "STMT-CUST-1073-ACC-0073-01",
+    "customer_id": "CUST-1073",
+    "account_id": "ACC-0073-01",
+    "period": "2026-09",
+    "opening_balance": 168638.67,
+    "closing_balance": 143528.0,
+    "transaction_count": 45
+  },
+  {
+    "statement_id": "STMT-CUST-1074-ACC-0074-01",
+    "customer_id": "CUST-1074",
+    "account_id": "ACC-0074-01",
+    "period": "2026-09",
+    "opening_balance": 116237.56,
+    "closing_balance": 269176.33,
+    "transaction_count": 32
+  },
+  {
+    "statement_id": "STMT-CUST-1075-ACC-0075-01",
+    "customer_id": "CUST-1075",
+    "account_id": "ACC-0075-01",
+    "period": "2026-09",
+    "opening_balance": 145001.41,
+    "closing_balance": 359884.13,
+    "transaction_count": 42
+  },
+  {
+    "statement_id": "STMT-CUST-1076-ACC-0076-01",
+    "customer_id": "CUST-1076",
+    "account_id": "ACC-0076-01",
+    "period": "2026-09",
+    "opening_balance": 19128.57,
+    "closing_balance": 321625.15,
+    "transaction_count": 20
+  },
+  {
+    "statement_id": "STMT-CUST-1077-ACC-0077-01",
+    "customer_id": "CUST-1077",
+    "account_id": "ACC-0077-01",
+    "period": "2026-09",
+    "opening_balance": 198886.23,
+    "closing_balance": 275787.9,
+    "transaction_count": 28
+  },
+  {
+    "statement_id": "STMT-CUST-1077-ACC-0077-02",
+    "customer_id": "CUST-1077",
+    "account_id": "ACC-0077-02",
+    "period": "2026-09",
+    "opening_balance": 66304.85,
+    "closing_balance": 299045.12,
+    "transaction_count": 18
+  },
+  {
+    "statement_id": "STMT-CUST-1078-ACC-0078-01",
+    "customer_id": "CUST-1078",
+    "account_id": "ACC-0078-01",
+    "period": "2026-09",
+    "opening_balance": 71853.31,
+    "closing_balance": 247102.92,
+    "transaction_count": 35
+  },
+  {
+    "statement_id": "STMT-CUST-1079-ACC-0079-01",
+    "customer_id": "CUST-1079",
+    "account_id": "ACC-0079-01",
+    "period": "2026-09",
+    "opening_balance": 289562.54,
+    "closing_balance": 197109.08,
+    "transaction_count": 20
+  },
+  {
+    "statement_id": "STMT-CUST-1079-ACC-0079-02",
+    "customer_id": "CUST-1079",
+    "account_id": "ACC-0079-02",
+    "period": "2026-09",
+    "opening_balance": 291380.58,
+    "closing_balance": 429028.97,
+    "transaction_count": 17
+  },
+  {
+    "statement_id": "STMT-CUST-1080-ACC-0080-01",
+    "customer_id": "CUST-1080",
+    "account_id": "ACC-0080-01",
+    "period": "2026-09",
+    "opening_balance": 123303.89,
+    "closing_balance": 460813.32,
+    "transaction_count": 12
+  },
+  {
+    "statement_id": "STMT-CUST-1080-ACC-0080-02",
+    "customer_id": "CUST-1080",
+    "account_id": "ACC-0080-02",
+    "period": "2026-09",
+    "opening_balance": 238909.18,
+    "closing_balance": 172243.71,
+    "transaction_count": 34
+  },
+  {
+    "statement_id": "STMT-CUST-1081-ACC-0081-01",
+    "customer_id": "CUST-1081",
+    "account_id": "ACC-0081-01",
+    "period": "2026-09",
+    "opening_balance": 184714.8,
+    "closing_balance": 412635.61,
+    "transaction_count": 34
+  },
+  {
+    "statement_id": "STMT-CUST-1081-ACC-0081-02",
+    "customer_id": "CUST-1081",
+    "account_id": "ACC-0081-02",
+    "period": "2026-09",
+    "opening_balance": 169930.95,
+    "closing_balance": 342181.31,
+    "transaction_count": 39
+  },
+  {
+    "statement_id": "STMT-CUST-1082-ACC-0082-01",
+    "customer_id": "CUST-1082",
+    "account_id": "ACC-0082-01",
+    "period": "2026-09",
+    "opening_balance": 85278.66,
+    "closing_balance": 494238.68,
+    "transaction_count": 40
+  },
+  {
+    "statement_id": "STMT-CUST-1083-ACC-0083-01",
+    "customer_id": "CUST-1083",
+    "account_id": "ACC-0083-01",
+    "period": "2026-09",
+    "opening_balance": 15777.7,
+    "closing_balance": 328945.15,
+    "transaction_count": 38
+  },
+  {
+    "statement_id": "STMT-CUST-1083-ACC-0083-02",
+    "customer_id": "CUST-1083",
+    "account_id": "ACC-0083-02",
+    "period": "2026-09",
+    "opening_balance": 207849.68,
+    "closing_balance": 373383.92,
+    "transaction_count": 32
+  },
+  {
+    "statement_id": "STMT-CUST-1084-ACC-0084-01",
+    "customer_id": "CUST-1084",
+    "account_id": "ACC-0084-01",
+    "period": "2026-09",
+    "opening_balance": 29225.03,
+    "closing_balance": 319076.99,
+    "transaction_count": 49
+  },
+  {
+    "statement_id": "STMT-CUST-1085-ACC-0085-01",
+    "customer_id": "CUST-1085",
+    "account_id": "ACC-0085-01",
+    "period": "2026-09",
+    "opening_balance": 210127.13,
+    "closing_balance": 219664.29,
+    "transaction_count": 25
+  },
+  {
+    "statement_id": "STMT-CUST-1085-ACC-0085-02",
+    "customer_id": "CUST-1085",
+    "account_id": "ACC-0085-02",
+    "period": "2026-09",
+    "opening_balance": 177638.61,
+    "closing_balance": 498088.76,
+    "transaction_count": 33
+  },
+  {
+    "statement_id": "STMT-CUST-1086-ACC-0086-01",
+    "customer_id": "CUST-1086",
+    "account_id": "ACC-0086-01",
+    "period": "2026-09",
+    "opening_balance": 212124.62,
+    "closing_balance": 239826.19,
+    "transaction_count": 19
+  },
+  {
+    "statement_id": "STMT-CUST-1087-ACC-0087-01",
+    "customer_id": "CUST-1087",
+    "account_id": "ACC-0087-01",
+    "period": "2026-09",
+    "opening_balance": 35938.38,
+    "closing_balance": 453905.62,
+    "transaction_count": 13
+  },
+  {
+    "statement_id": "STMT-CUST-1088-ACC-0088-01",
+    "customer_id": "CUST-1088",
+    "account_id": "ACC-0088-01",
+    "period": "2026-09",
+    "opening_balance": 223381.97,
+    "closing_balance": 439845.39,
+    "transaction_count": 36
+  },
+  {
+    "statement_id": "STMT-CUST-1088-ACC-0088-02",
+    "customer_id": "CUST-1088",
+    "account_id": "ACC-0088-02",
+    "period": "2026-09",
+    "opening_balance": 269448.24,
+    "closing_balance": 95520.36,
+    "transaction_count": 19
+  },
+  {
+    "statement_id": "STMT-CUST-1089-ACC-0089-01",
+    "customer_id": "CUST-1089",
+    "account_id": "ACC-0089-01",
+    "period": "2026-09",
+    "opening_balance": 122634.61,
+    "closing_balance": 11118.31,
+    "transaction_count": 10
+  },
+  {
+    "statement_id": "STMT-CUST-1090-ACC-0090-01",
+    "customer_id": "CUST-1090",
+    "account_id": "ACC-0090-01",
+    "period": "2026-09",
+    "opening_balance": 149299.39,
+    "closing_balance": 359745.74,
+    "transaction_count": 10
+  },
+  {
+    "statement_id": "STMT-CUST-1091-ACC-0091-01",
+    "customer_id": "CUST-1091",
+    "account_id": "ACC-0091-01",
+    "period": "2026-09",
+    "opening_balance": 73099.83,
+    "closing_balance": 482108.1,
+    "transaction_count": 33
+  },
+  {
+    "statement_id": "STMT-CUST-1091-ACC-0091-02",
+    "customer_id": "CUST-1091",
+    "account_id": "ACC-0091-02",
+    "period": "2026-09",
+    "opening_balance": 23461.99,
+    "closing_balance": 278847.03,
+    "transaction_count": 43
+  },
+  {
+    "statement_id": "STMT-CUST-1092-ACC-0092-01",
+    "customer_id": "CUST-1092",
+    "account_id": "ACC-0092-01",
+    "period": "2026-09",
+    "opening_balance": 232384.69,
+    "closing_balance": 254427.25,
+    "transaction_count": 20
+  },
+  {
+    "statement_id": "STMT-CUST-1093-ACC-0093-01",
+    "customer_id": "CUST-1093",
+    "account_id": "ACC-0093-01",
+    "period": "2026-09",
+    "opening_balance": 91800.1,
+    "closing_balance": 456185.76,
+    "transaction_count": 23
+  },
+  {
+    "statement_id": "STMT-CUST-1094-ACC-0094-01",
+    "customer_id": "CUST-1094",
+    "account_id": "ACC-0094-01",
+    "period": "2026-09",
+    "opening_balance": 213816.72,
+    "closing_balance": 387962.17,
+    "transaction_count": 17
+  },
+  {
+    "statement_id": "STMT-CUST-1094-ACC-0094-02",
+    "customer_id": "CUST-1094",
+    "account_id": "ACC-0094-02",
+    "period": "2026-09",
+    "opening_balance": 189800.81,
+    "closing_balance": 247822.72,
+    "transaction_count": 24
+  },
+  {
+    "statement_id": "STMT-CUST-1095-ACC-0095-01",
+    "customer_id": "CUST-1095",
+    "account_id": "ACC-0095-01",
+    "period": "2026-09",
+    "opening_balance": 177587.32,
+    "closing_balance": 26706.57,
+    "transaction_count": 28
+  },
+  {
+    "statement_id": "STMT-CUST-1095-ACC-0095-02",
+    "customer_id": "CUST-1095",
+    "account_id": "ACC-0095-02",
+    "period": "2026-09",
+    "opening_balance": 167130.5,
+    "closing_balance": 163554.81,
+    "transaction_count": 28
+  },
+  {
+    "statement_id": "STMT-CUST-1096-ACC-0096-01",
+    "customer_id": "CUST-1096",
+    "account_id": "ACC-0096-01",
+    "period": "2026-09",
+    "opening_balance": 155982.87,
+    "closing_balance": 281251.68,
+    "transaction_count": 24
+  },
+  {
+    "statement_id": "STMT-CUST-1097-ACC-0097-01",
+    "customer_id": "CUST-1097",
+    "account_id": "ACC-0097-01",
+    "period": "2026-09",
+    "opening_balance": 16839.68,
+    "closing_balance": 84672.41,
+    "transaction_count": 29
+  },
+  {
+    "statement_id": "STMT-CUST-1098-ACC-0098-01",
+    "customer_id": "CUST-1098",
+    "account_id": "ACC-0098-01",
+    "period": "2026-09",
+    "opening_balance": 274733.67,
+    "closing_balance": 278077.55,
+    "transaction_count": 37
+  },
+  {
+    "statement_id": "STMT-CUST-1099-ACC-0099-01",
+    "customer_id": "CUST-1099",
+    "account_id": "ACC-0099-01",
+    "period": "2026-09",
+    "opening_balance": 184199.24,
+    "closing_balance": 36116.27,
+    "transaction_count": 14
+  },
+  {
+    "statement_id": "STMT-CUST-1100-ACC-0100-01",
+    "customer_id": "CUST-1100",
+    "account_id": "ACC-0100-01",
+    "period": "2026-09",
+    "opening_balance": 246073.75,
+    "closing_balance": 97518.31,
+    "transaction_count": 30
+  }
+]

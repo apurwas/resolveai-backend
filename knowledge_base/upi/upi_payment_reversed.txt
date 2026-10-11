@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+UPI Payment Reversed Policy
+
+Policy ID:
+UPI-003
+
+Version:
+1.0
+
+Domain:
+UPI
+
+Applicable Intent:
+UPI_PAYMENT_REVERSED
+
+Issue:
+Customer reports that a previously initiated UPI payment was reversed.
+
+Agent Procedure:
+1. Retrieve and verify the UPI transaction.
+2. Check the transaction status and reversal information.
+3. Confirm whether the amount has been returned to the customer's account.
+4. Follow the applicable reversal handling process.
+
+Resolution Guidance:
+Do not claim that funds have been returned until the transaction record confirms the reversal.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate if the transaction is reversed but the expected account credit cannot be verified.
+
+Agent Response Guidance:
+Explain that the transaction status is being checked and avoid confirming a credit without transaction evidence.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

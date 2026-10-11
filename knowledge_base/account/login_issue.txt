@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Login Issue Policy
+
+Policy ID:
+ACC-002
+
+Version:
+1.0
+
+Domain:
+Account
+
+Applicable Intent:
+LOGIN_ISSUE
+
+Issue:
+Customer cannot log into the banking application or account.
+
+Agent Procedure:
+1. Verify the customer using the applicable authentication process.
+2. Identify whether the issue relates to credentials, account status, device, or application access.
+3. Guide the customer through the approved recovery process.
+4. Escalate if standard recovery does not resolve the issue.
+
+Resolution Guidance:
+Never request or expose passwords, OTPs, or other authentication secrets.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate suspected account takeover or unsuccessful recovery attempts.
+
+Agent Response Guidance:
+Guide the customer through the approved secure account-recovery process.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

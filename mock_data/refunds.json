@@ -1,0 +1,317 @@
+[
+  {
+    "refund_id": "REF-00002",
+    "customer_id": "CUST-1041",
+    "transaction_id": "TXN-0000888",
+    "amount": 17446.89,
+    "status": "PROCESSING",
+    "initiated_date": "2026-09-24",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "refund_id": "REF-00005",
+    "customer_id": "CUST-1003",
+    "transaction_id": "TXN-0000070",
+    "amount": 13532.84,
+    "status": "INITIATED",
+    "initiated_date": "2026-08-16",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "refund_id": "REF-00009",
+    "customer_id": "CUST-1066",
+    "transaction_id": "TXN-0001418",
+    "amount": 43400.11,
+    "status": "PROCESSING",
+    "initiated_date": "2026-08-19",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "refund_id": "REF-00010",
+    "customer_id": "CUST-1035",
+    "transaction_id": "TXN-0000755",
+    "amount": 12338.17,
+    "status": "PROCESSING",
+    "initiated_date": "2026-08-18",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "refund_id": "REF-00012",
+    "customer_id": "CUST-1077",
+    "transaction_id": "TXN-0001659",
+    "amount": 47879.34,
+    "status": "INITIATED",
+    "initiated_date": "2026-09-09",
+    "last_updated": "2026-09-28"
+  },
+  {
+    "refund_id": "REF-00016",
+    "customer_id": "CUST-1009",
+    "transaction_id": "TXN-0000202",
+    "amount": 44374.35,
+    "status": "PENDING",
+    "initiated_date": "2026-09-18",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "refund_id": "REF-00017",
+    "customer_id": "CUST-1092",
+    "transaction_id": "TXN-0001962",
+    "amount": 14118.44,
+    "status": "PROCESSING",
+    "initiated_date": "2026-09-29",
+    "last_updated": "2026-09-06"
+  },
+  {
+    "refund_id": "REF-00018",
+    "customer_id": "CUST-1022",
+    "transaction_id": "TXN-0000470",
+    "amount": 45135.31,
+    "status": "INITIATED",
+    "initiated_date": "2026-09-16",
+    "last_updated": "2026-09-21"
+  },
+  {
+    "refund_id": "REF-00024",
+    "customer_id": "CUST-1093",
+    "transaction_id": "TXN-0001989",
+    "amount": 43106.21,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-19",
+    "last_updated": "2026-09-06"
+  },
+  {
+    "refund_id": "REF-00032",
+    "customer_id": "CUST-1074",
+    "transaction_id": "TXN-0001579",
+    "amount": 7016.94,
+    "status": "PROCESSING",
+    "initiated_date": "2026-09-08",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "refund_id": "REF-00036",
+    "customer_id": "CUST-1076",
+    "transaction_id": "TXN-0001636",
+    "amount": 12824.46,
+    "status": "PROCESSING",
+    "initiated_date": "2026-08-28",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "refund_id": "REF-00037",
+    "customer_id": "CUST-1092",
+    "transaction_id": "TXN-0001940",
+    "amount": 43328.31,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-09",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "refund_id": "REF-00038",
+    "customer_id": "CUST-1060",
+    "transaction_id": "TXN-0001286",
+    "amount": 43769.28,
+    "status": "COMPLETED",
+    "initiated_date": "2026-08-14",
+    "last_updated": "2026-09-18"
+  },
+  {
+    "refund_id": "REF-00041",
+    "customer_id": "CUST-1061",
+    "transaction_id": "TXN-0001305",
+    "amount": 22641.2,
+    "status": "COMPLETED",
+    "initiated_date": "2026-08-28",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "refund_id": "REF-00042",
+    "customer_id": "CUST-1034",
+    "transaction_id": "TXN-0000714",
+    "amount": 444.83,
+    "status": "INITIATED",
+    "initiated_date": "2026-09-10",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "refund_id": "REF-00047",
+    "customer_id": "CUST-1065",
+    "transaction_id": "TXN-0001402",
+    "amount": 40200.74,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-06",
+    "last_updated": "2026-09-25"
+  },
+  {
+    "refund_id": "REF-00048",
+    "customer_id": "CUST-1003",
+    "transaction_id": "TXN-0000070",
+    "amount": 13532.84,
+    "status": "INITIATED",
+    "initiated_date": "2026-08-28",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "refund_id": "REF-00049",
+    "customer_id": "CUST-1072",
+    "transaction_id": "TXN-0001540",
+    "amount": 6881.62,
+    "status": "PROCESSING",
+    "initiated_date": "2026-08-27",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "refund_id": "REF-00050",
+    "customer_id": "CUST-1087",
+    "transaction_id": "TXN-0001847",
+    "amount": 16322.62,
+    "status": "PENDING",
+    "initiated_date": "2026-09-11",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "refund_id": "REF-00051",
+    "customer_id": "CUST-1035",
+    "transaction_id": "TXN-0000758",
+    "amount": 42650.74,
+    "status": "INITIATED",
+    "initiated_date": "2026-09-03",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "refund_id": "REF-00052",
+    "customer_id": "CUST-1001",
+    "transaction_id": "TXN-0000003",
+    "amount": 46125.36,
+    "status": "PROCESSING",
+    "initiated_date": "2026-10-02",
+    "last_updated": "2026-09-25"
+  },
+  {
+    "refund_id": "REF-00063",
+    "customer_id": "CUST-1059",
+    "transaction_id": "TXN-0001260",
+    "amount": 7206.18,
+    "status": "INITIATED",
+    "initiated_date": "2026-08-04",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "refund_id": "REF-00066",
+    "customer_id": "CUST-1077",
+    "transaction_id": "TXN-0001653",
+    "amount": 12679.73,
+    "status": "PENDING",
+    "initiated_date": "2026-08-30",
+    "last_updated": "2026-09-15"
+  },
+  {
+    "refund_id": "REF-00070",
+    "customer_id": "CUST-1100",
+    "transaction_id": "TXN-0002144",
+    "amount": 28823.11,
+    "status": "PENDING",
+    "initiated_date": "2026-09-20",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "refund_id": "REF-00073",
+    "customer_id": "CUST-1094",
+    "transaction_id": "TXN-0002010",
+    "amount": 27945.7,
+    "status": "PENDING",
+    "initiated_date": "2026-09-19",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "refund_id": "REF-00074",
+    "customer_id": "CUST-1036",
+    "transaction_id": "TXN-0000760",
+    "amount": 31411.54,
+    "status": "PROCESSING",
+    "initiated_date": "2026-09-05",
+    "last_updated": "2026-09-13"
+  },
+  {
+    "refund_id": "REF-00078",
+    "customer_id": "CUST-1064",
+    "transaction_id": "TXN-0001390",
+    "amount": 3174.82,
+    "status": "PENDING",
+    "initiated_date": "2026-08-23",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "refund_id": "REF-00082",
+    "customer_id": "CUST-1040",
+    "transaction_id": "TXN-0000852",
+    "amount": 47692.73,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-21",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "refund_id": "REF-00083",
+    "customer_id": "CUST-1018",
+    "transaction_id": "TXN-0000376",
+    "amount": 23178.09,
+    "status": "PENDING",
+    "initiated_date": "2026-09-12",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "refund_id": "REF-00085",
+    "customer_id": "CUST-1006",
+    "transaction_id": "TXN-0000127",
+    "amount": 12444.87,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-22",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "refund_id": "REF-00093",
+    "customer_id": "CUST-1005",
+    "transaction_id": "TXN-0000097",
+    "amount": 33757.18,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-02",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "refund_id": "REF-00094",
+    "customer_id": "CUST-1072",
+    "transaction_id": "TXN-0001549",
+    "amount": 44862.24,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-15",
+    "last_updated": "2026-09-15"
+  },
+  {
+    "refund_id": "REF-00095",
+    "customer_id": "CUST-1088",
+    "transaction_id": "TXN-0001869",
+    "amount": 33050.83,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-03",
+    "last_updated": "2026-10-03"
+  },
+  {
+    "refund_id": "REF-00096",
+    "customer_id": "CUST-1009",
+    "transaction_id": "TXN-0000205",
+    "amount": 42397.07,
+    "status": "INITIATED",
+    "initiated_date": "2026-09-25",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "refund_id": "REF-00098",
+    "customer_id": "CUST-1075",
+    "transaction_id": "TXN-0001621",
+    "amount": 40803.1,
+    "status": "COMPLETED",
+    "initiated_date": "2026-09-14",
+    "last_updated": "2026-09-16"
+  }
+]

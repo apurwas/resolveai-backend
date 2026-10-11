@@ -1,0 +1,2171 @@
+[
+  {
+    "beneficiary_id": "BEN-0001-01",
+    "customer_id": "CUST-1001",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "1711",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0001-02",
+    "customer_id": "CUST-1001",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "9785",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0001-03",
+    "customer_id": "CUST-1001",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "2291",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0002-01",
+    "customer_id": "CUST-1002",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "6930",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0002-02",
+    "customer_id": "CUST-1002",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9348",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0002-03",
+    "customer_id": "CUST-1002",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "1771",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0002-04",
+    "customer_id": "CUST-1002",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "3621",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0003-01",
+    "customer_id": "CUST-1003",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "6310",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0003-02",
+    "customer_id": "CUST-1003",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "2832",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0004-01",
+    "customer_id": "CUST-1004",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "2163",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0004-02",
+    "customer_id": "CUST-1004",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "4750",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0005-01",
+    "customer_id": "CUST-1005",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "9786",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0005-02",
+    "customer_id": "CUST-1005",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "7912",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0006-01",
+    "customer_id": "CUST-1006",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "5915",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0006-02",
+    "customer_id": "CUST-1006",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "2188",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0006-03",
+    "customer_id": "CUST-1006",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "2638",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0006-04",
+    "customer_id": "CUST-1006",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "9288",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0007-01",
+    "customer_id": "CUST-1007",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "3088",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0007-02",
+    "customer_id": "CUST-1007",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "6974",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0008-01",
+    "customer_id": "CUST-1008",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "8541",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0008-02",
+    "customer_id": "CUST-1008",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "4728",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0009-01",
+    "customer_id": "CUST-1009",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "5700",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0010-01",
+    "customer_id": "CUST-1010",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1090",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0010-02",
+    "customer_id": "CUST-1010",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "4585",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0011-01",
+    "customer_id": "CUST-1011",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "9849",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0011-02",
+    "customer_id": "CUST-1011",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "3471",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0011-03",
+    "customer_id": "CUST-1011",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "3503",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0012-01",
+    "customer_id": "CUST-1012",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "8705",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0012-02",
+    "customer_id": "CUST-1012",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "6733",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0012-03",
+    "customer_id": "CUST-1012",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "1659",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0013-01",
+    "customer_id": "CUST-1013",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "7149",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0014-01",
+    "customer_id": "CUST-1014",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "8136",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0014-02",
+    "customer_id": "CUST-1014",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "6280",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0014-03",
+    "customer_id": "CUST-1014",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "5569",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0014-04",
+    "customer_id": "CUST-1014",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "8613",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0015-01",
+    "customer_id": "CUST-1015",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "7046",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0015-02",
+    "customer_id": "CUST-1015",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "7971",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0016-01",
+    "customer_id": "CUST-1016",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "5786",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0017-01",
+    "customer_id": "CUST-1017",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "8253",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0017-02",
+    "customer_id": "CUST-1017",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "6003",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0017-03",
+    "customer_id": "CUST-1017",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "2625",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0017-04",
+    "customer_id": "CUST-1017",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "5335",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0018-01",
+    "customer_id": "CUST-1018",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1339",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0019-01",
+    "customer_id": "CUST-1019",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "9431",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0020-01",
+    "customer_id": "CUST-1020",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "3369",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0020-02",
+    "customer_id": "CUST-1020",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9327",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0021-01",
+    "customer_id": "CUST-1021",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "7325",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0021-02",
+    "customer_id": "CUST-1021",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9115",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0021-03",
+    "customer_id": "CUST-1021",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "9229",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0021-04",
+    "customer_id": "CUST-1021",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "2644",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0022-01",
+    "customer_id": "CUST-1022",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "8529",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0022-02",
+    "customer_id": "CUST-1022",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "8622",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0022-03",
+    "customer_id": "CUST-1022",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "2210",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0022-04",
+    "customer_id": "CUST-1022",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "5901",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0023-01",
+    "customer_id": "CUST-1023",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "8222",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0024-01",
+    "customer_id": "CUST-1024",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "7038",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0025-01",
+    "customer_id": "CUST-1025",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "2622",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0025-02",
+    "customer_id": "CUST-1025",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "5583",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0026-01",
+    "customer_id": "CUST-1026",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "5542",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0026-02",
+    "customer_id": "CUST-1026",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9850",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0027-01",
+    "customer_id": "CUST-1027",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "8847",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0028-01",
+    "customer_id": "CUST-1028",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "7132",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0028-02",
+    "customer_id": "CUST-1028",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "2099",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0028-03",
+    "customer_id": "CUST-1028",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "2527",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0029-01",
+    "customer_id": "CUST-1029",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "6105",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0029-02",
+    "customer_id": "CUST-1029",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "2391",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0030-01",
+    "customer_id": "CUST-1030",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "8033",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0031-01",
+    "customer_id": "CUST-1031",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "5193",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0032-01",
+    "customer_id": "CUST-1032",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "9266",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0032-02",
+    "customer_id": "CUST-1032",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "1641",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0032-03",
+    "customer_id": "CUST-1032",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "8199",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0033-01",
+    "customer_id": "CUST-1033",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "3093",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0033-02",
+    "customer_id": "CUST-1033",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "7937",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0033-03",
+    "customer_id": "CUST-1033",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "1298",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0033-04",
+    "customer_id": "CUST-1033",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "3953",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0034-01",
+    "customer_id": "CUST-1034",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "8167",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0034-02",
+    "customer_id": "CUST-1034",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "8391",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0034-03",
+    "customer_id": "CUST-1034",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "7797",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0034-04",
+    "customer_id": "CUST-1034",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "9224",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0035-01",
+    "customer_id": "CUST-1035",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "8702",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0036-01",
+    "customer_id": "CUST-1036",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "6170",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0036-02",
+    "customer_id": "CUST-1036",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "9897",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0037-01",
+    "customer_id": "CUST-1037",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "3068",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0037-02",
+    "customer_id": "CUST-1037",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "7001",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0037-03",
+    "customer_id": "CUST-1037",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "1530",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0037-04",
+    "customer_id": "CUST-1037",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "8371",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0038-01",
+    "customer_id": "CUST-1038",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "8292",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0038-02",
+    "customer_id": "CUST-1038",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "6692",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0038-03",
+    "customer_id": "CUST-1038",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "9882",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0038-04",
+    "customer_id": "CUST-1038",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "3580",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0039-01",
+    "customer_id": "CUST-1039",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "3981",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0039-02",
+    "customer_id": "CUST-1039",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "9238",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0039-03",
+    "customer_id": "CUST-1039",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "9488",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0040-01",
+    "customer_id": "CUST-1040",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "8609",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0040-02",
+    "customer_id": "CUST-1040",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "3353",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0040-03",
+    "customer_id": "CUST-1040",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "6658",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0040-04",
+    "customer_id": "CUST-1040",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "7070",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0041-01",
+    "customer_id": "CUST-1041",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "9108",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0042-01",
+    "customer_id": "CUST-1042",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "4261",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0042-02",
+    "customer_id": "CUST-1042",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "9193",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0042-03",
+    "customer_id": "CUST-1042",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "1637",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0043-01",
+    "customer_id": "CUST-1043",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "3793",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0044-01",
+    "customer_id": "CUST-1044",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "4150",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0044-02",
+    "customer_id": "CUST-1044",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "5890",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0044-03",
+    "customer_id": "CUST-1044",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "5735",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0045-01",
+    "customer_id": "CUST-1045",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "4804",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0046-01",
+    "customer_id": "CUST-1046",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "5215",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0046-02",
+    "customer_id": "CUST-1046",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "1230",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0047-01",
+    "customer_id": "CUST-1047",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "3188",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0047-02",
+    "customer_id": "CUST-1047",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "8454",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0048-01",
+    "customer_id": "CUST-1048",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "1945",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0048-02",
+    "customer_id": "CUST-1048",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "6049",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0048-03",
+    "customer_id": "CUST-1048",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "7487",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0048-04",
+    "customer_id": "CUST-1048",
+    "name": "Beneficiary 4",
+    "bank_name": "Demo Bank",
+    "account_last4": "4570",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0049-01",
+    "customer_id": "CUST-1049",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "8314",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0050-01",
+    "customer_id": "CUST-1050",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "9120",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0050-02",
+    "customer_id": "CUST-1050",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "7244",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0051-01",
+    "customer_id": "CUST-1051",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "9743",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0051-02",
+    "customer_id": "CUST-1051",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "6053",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0051-03",
+    "customer_id": "CUST-1051",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "9401",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0051-04",
+    "customer_id": "CUST-1051",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "2615",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0052-01",
+    "customer_id": "CUST-1052",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "4015",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0052-02",
+    "customer_id": "CUST-1052",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "9584",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0053-01",
+    "customer_id": "CUST-1053",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "2753",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0053-02",
+    "customer_id": "CUST-1053",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "4948",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0053-03",
+    "customer_id": "CUST-1053",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "6807",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0053-04",
+    "customer_id": "CUST-1053",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "2294",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0054-01",
+    "customer_id": "CUST-1054",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "5593",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0055-01",
+    "customer_id": "CUST-1055",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "8381",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0056-01",
+    "customer_id": "CUST-1056",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "9079",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0056-02",
+    "customer_id": "CUST-1056",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "3739",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0056-03",
+    "customer_id": "CUST-1056",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "7899",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0057-01",
+    "customer_id": "CUST-1057",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "6228",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0057-02",
+    "customer_id": "CUST-1057",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "4971",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0058-01",
+    "customer_id": "CUST-1058",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "3725",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0058-02",
+    "customer_id": "CUST-1058",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "7547",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0059-01",
+    "customer_id": "CUST-1059",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "8178",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0059-02",
+    "customer_id": "CUST-1059",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "6225",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0059-03",
+    "customer_id": "CUST-1059",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "1732",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0059-04",
+    "customer_id": "CUST-1059",
+    "name": "Beneficiary 4",
+    "bank_name": "Demo Bank",
+    "account_last4": "1370",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0060-01",
+    "customer_id": "CUST-1060",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "9019",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0061-01",
+    "customer_id": "CUST-1061",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "9022",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0061-02",
+    "customer_id": "CUST-1061",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "4065",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0062-01",
+    "customer_id": "CUST-1062",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "7965",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0062-02",
+    "customer_id": "CUST-1062",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "5877",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0062-03",
+    "customer_id": "CUST-1062",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "5305",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0062-04",
+    "customer_id": "CUST-1062",
+    "name": "Beneficiary 4",
+    "bank_name": "Demo Bank",
+    "account_last4": "8193",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0063-01",
+    "customer_id": "CUST-1063",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "5090",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0063-02",
+    "customer_id": "CUST-1063",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "5055",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0064-01",
+    "customer_id": "CUST-1064",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "6289",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0064-02",
+    "customer_id": "CUST-1064",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "9967",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0064-03",
+    "customer_id": "CUST-1064",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "8951",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0064-04",
+    "customer_id": "CUST-1064",
+    "name": "Beneficiary 4",
+    "bank_name": "Demo Bank",
+    "account_last4": "1752",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0065-01",
+    "customer_id": "CUST-1065",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "4705",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0066-01",
+    "customer_id": "CUST-1066",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "7745",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0066-02",
+    "customer_id": "CUST-1066",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "4559",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0067-01",
+    "customer_id": "CUST-1067",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "2847",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0067-02",
+    "customer_id": "CUST-1067",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "2163",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0067-03",
+    "customer_id": "CUST-1067",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "6916",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0067-04",
+    "customer_id": "CUST-1067",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "7337",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0068-01",
+    "customer_id": "CUST-1068",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1948",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0068-02",
+    "customer_id": "CUST-1068",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "8118",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0068-03",
+    "customer_id": "CUST-1068",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "1901",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0068-04",
+    "customer_id": "CUST-1068",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "2956",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0069-01",
+    "customer_id": "CUST-1069",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1753",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0070-01",
+    "customer_id": "CUST-1070",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "6090",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0070-02",
+    "customer_id": "CUST-1070",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "8483",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0070-03",
+    "customer_id": "CUST-1070",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "4287",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0070-04",
+    "customer_id": "CUST-1070",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "4974",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0071-01",
+    "customer_id": "CUST-1071",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "1719",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0071-02",
+    "customer_id": "CUST-1071",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "7102",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0071-03",
+    "customer_id": "CUST-1071",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "2565",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0072-01",
+    "customer_id": "CUST-1072",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "7625",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0072-02",
+    "customer_id": "CUST-1072",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "2551",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0073-01",
+    "customer_id": "CUST-1073",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "3248",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0073-02",
+    "customer_id": "CUST-1073",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9614",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0073-03",
+    "customer_id": "CUST-1073",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "7266",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0074-01",
+    "customer_id": "CUST-1074",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "3846",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0074-02",
+    "customer_id": "CUST-1074",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "6210",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0074-03",
+    "customer_id": "CUST-1074",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "1462",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0074-04",
+    "customer_id": "CUST-1074",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "3328",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0075-01",
+    "customer_id": "CUST-1075",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "7120",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0075-02",
+    "customer_id": "CUST-1075",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "2655",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0075-03",
+    "customer_id": "CUST-1075",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "6285",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0076-01",
+    "customer_id": "CUST-1076",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "6682",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0077-01",
+    "customer_id": "CUST-1077",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "4112",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0077-02",
+    "customer_id": "CUST-1077",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "5612",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0077-03",
+    "customer_id": "CUST-1077",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "2571",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0078-01",
+    "customer_id": "CUST-1078",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "5313",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0078-02",
+    "customer_id": "CUST-1078",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "5315",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0078-03",
+    "customer_id": "CUST-1078",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "2009",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0078-04",
+    "customer_id": "CUST-1078",
+    "name": "Beneficiary 4",
+    "bank_name": "Demo Bank",
+    "account_last4": "2404",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0079-01",
+    "customer_id": "CUST-1079",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "2654",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0080-01",
+    "customer_id": "CUST-1080",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "5414",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0080-02",
+    "customer_id": "CUST-1080",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "2462",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0080-03",
+    "customer_id": "CUST-1080",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "4463",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0080-04",
+    "customer_id": "CUST-1080",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "9462",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0081-01",
+    "customer_id": "CUST-1081",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "1449",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0082-01",
+    "customer_id": "CUST-1082",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "3292",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0082-02",
+    "customer_id": "CUST-1082",
+    "name": "Beneficiary 2",
+    "bank_name": "Demo Bank",
+    "account_last4": "9148",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0082-03",
+    "customer_id": "CUST-1082",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "7857",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0082-04",
+    "customer_id": "CUST-1082",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "1578",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0083-01",
+    "customer_id": "CUST-1083",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "8736",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0084-01",
+    "customer_id": "CUST-1084",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "7609",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0084-02",
+    "customer_id": "CUST-1084",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "7280",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0084-03",
+    "customer_id": "CUST-1084",
+    "name": "Beneficiary 3",
+    "bank_name": "Demo Bank",
+    "account_last4": "9745",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0084-04",
+    "customer_id": "CUST-1084",
+    "name": "Beneficiary 4",
+    "bank_name": "Digital Bank",
+    "account_last4": "1230",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0085-01",
+    "customer_id": "CUST-1085",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1359",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0085-02",
+    "customer_id": "CUST-1085",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "3017",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0086-01",
+    "customer_id": "CUST-1086",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "5631",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0087-01",
+    "customer_id": "CUST-1087",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "5850",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0087-02",
+    "customer_id": "CUST-1087",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "1820",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0088-01",
+    "customer_id": "CUST-1088",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "3611",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0088-02",
+    "customer_id": "CUST-1088",
+    "name": "Beneficiary 2",
+    "bank_name": "Unity Bank",
+    "account_last4": "8908",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0089-01",
+    "customer_id": "CUST-1089",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "1894",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0089-02",
+    "customer_id": "CUST-1089",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9283",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0089-03",
+    "customer_id": "CUST-1089",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "3709",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0089-04",
+    "customer_id": "CUST-1089",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "6253",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0090-01",
+    "customer_id": "CUST-1090",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "2741",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0090-02",
+    "customer_id": "CUST-1090",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "9067",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0090-03",
+    "customer_id": "CUST-1090",
+    "name": "Beneficiary 3",
+    "bank_name": "Unity Bank",
+    "account_last4": "2752",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0091-01",
+    "customer_id": "CUST-1091",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "7859",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0091-02",
+    "customer_id": "CUST-1091",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "5482",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0091-03",
+    "customer_id": "CUST-1091",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "5819",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0092-01",
+    "customer_id": "CUST-1092",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "7240",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0093-01",
+    "customer_id": "CUST-1093",
+    "name": "Beneficiary 1",
+    "bank_name": "National Bank",
+    "account_last4": "3847",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0094-01",
+    "customer_id": "CUST-1094",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "6724",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0094-02",
+    "customer_id": "CUST-1094",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "6437",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0094-03",
+    "customer_id": "CUST-1094",
+    "name": "Beneficiary 3",
+    "bank_name": "Digital Bank",
+    "account_last4": "5809",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0094-04",
+    "customer_id": "CUST-1094",
+    "name": "Beneficiary 4",
+    "bank_name": "Unity Bank",
+    "account_last4": "1144",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0095-01",
+    "customer_id": "CUST-1095",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "4453",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0096-01",
+    "customer_id": "CUST-1096",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "2938",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0097-01",
+    "customer_id": "CUST-1097",
+    "name": "Beneficiary 1",
+    "bank_name": "Digital Bank",
+    "account_last4": "2103",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0098-01",
+    "customer_id": "CUST-1098",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "9309",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0099-01",
+    "customer_id": "CUST-1099",
+    "name": "Beneficiary 1",
+    "bank_name": "Demo Bank",
+    "account_last4": "9542",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0099-02",
+    "customer_id": "CUST-1099",
+    "name": "Beneficiary 2",
+    "bank_name": "Digital Bank",
+    "account_last4": "5314",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0099-03",
+    "customer_id": "CUST-1099",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "7171",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0100-01",
+    "customer_id": "CUST-1100",
+    "name": "Beneficiary 1",
+    "bank_name": "Unity Bank",
+    "account_last4": "4452",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  },
+  {
+    "beneficiary_id": "BEN-0100-02",
+    "customer_id": "CUST-1100",
+    "name": "Beneficiary 2",
+    "bank_name": "National Bank",
+    "account_last4": "7732",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0100-03",
+    "customer_id": "CUST-1100",
+    "name": "Beneficiary 3",
+    "bank_name": "National Bank",
+    "account_last4": "1706",
+    "ifsc": "DEMO0001234",
+    "status": "ACTIVE"
+  },
+  {
+    "beneficiary_id": "BEN-0100-04",
+    "customer_id": "CUST-1100",
+    "name": "Beneficiary 4",
+    "bank_name": "National Bank",
+    "account_last4": "3207",
+    "ifsc": "DEMO0001234",
+    "status": "PENDING"
+  }
+]

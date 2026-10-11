@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+ATM Cash Dispensation — Debit Without Cash
+
+Policy ID:
+ATM-001
+
+Version:
+1.0
+
+Domain:
+ATM
+
+Applicable Intent:
+ATM_DEBITED_NO_CASH
+
+Issue:
+ATM withdrawal was debited from the customer's account but no cash was dispensed.
+
+Agent Procedure:
+1. Verify the customer according to the applicable authentication procedure.
+2. Retrieve the ATM transaction using transaction reference, date, amount, ATM ID, and status.
+3. Check whether the transaction is successful, failed, reversed, or pending.
+4. If the account was debited and no cash was dispensed, initiate the applicable cash dispute or reversal process.
+
+Resolution Guidance:
+Do not promise an exact resolution timeline unless the applicable operational policy provides one.
+
+Risk Level:
+Medium to High
+
+Human Escalation:
+Escalate when transaction information is inconsistent, unavailable, or fraud is suspected.
+
+Agent Response Guidance:
+Acknowledge the issue and confirm that the ATM transaction is being investigated.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

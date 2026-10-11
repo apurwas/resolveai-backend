@@ -1,0 +1,58 @@
+[
+  {
+    "rm_id": "RM-0001",
+    "name": "Aarav Mehta",
+    "city": "Pune",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0002",
+    "name": "Priya Sharma",
+    "city": "Bengaluru",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0003",
+    "name": "Rahul Kapoor",
+    "city": "Delhi",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0004",
+    "name": "Sneha Joshi",
+    "city": "Pune",
+    "specialization": "DIGITAL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0005",
+    "name": "Vikram Rao",
+    "city": "Kolkata",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0006",
+    "name": "Ananya Singh",
+    "city": "Jaipur",
+    "specialization": "AFFLUENT_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0007",
+    "name": "Rohan Deshmukh",
+    "city": "Mumbai",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  },
+  {
+    "rm_id": "RM-0008",
+    "name": "Neha Patel",
+    "city": "Pune",
+    "specialization": "RETAIL_BANKING",
+    "active": true
+  }
+]

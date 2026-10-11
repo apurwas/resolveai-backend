@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Card Payment Failed Policy
+
+Policy ID:
+CARD-001
+
+Version:
+1.0
+
+Domain:
+Cards
+
+Applicable Intent:
+CARD_PAYMENT_FAILED
+
+Issue:
+Customer reports that a card payment failed.
+
+Agent Procedure:
+1. Verify the customer and retrieve the card transaction.
+2. Check authorization status, merchant information, amount, and timestamp.
+3. Determine the reason or status of the failed authorization.
+4. Follow the applicable card troubleshooting process.
+
+Resolution Guidance:
+Do not advise repeated attempts when the transaction may involve a fraud or security restriction.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when the failure is unexplained or security controls may be involved.
+
+Agent Response Guidance:
+Acknowledge the failed card payment and explain that the transaction status is being checked.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

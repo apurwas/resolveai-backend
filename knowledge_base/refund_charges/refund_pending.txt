@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Refund Pending Policy
+
+Policy ID:
+REF-001
+
+Version:
+1.0
+
+Domain:
+Refunds & Charges
+
+Applicable Intent:
+REFUND_PENDING
+
+Issue:
+Customer reports that an expected refund has not yet been received.
+
+Agent Procedure:
+1. Retrieve the original transaction and refund reference if available.
+2. Verify refund status, amount, date, and originating merchant or service.
+3. Determine whether the refund has been initiated, processed, or rejected.
+4. Follow the applicable refund investigation process.
+
+Resolution Guidance:
+Do not state that a refund is completed unless the refund status is verified.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when a confirmed refund cannot be traced to the customer's account.
+
+Agent Response Guidance:
+Acknowledge the missing refund and explain that the refund status is being verified.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

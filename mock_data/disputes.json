@@ -1,0 +1,902 @@
+[
+  {
+    "dispute_id": "DSP-00001",
+    "customer_id": "CUST-1076",
+    "transaction_id": "TXN-0001643",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-07-20",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "dispute_id": "DSP-00002",
+    "customer_id": "CUST-1059",
+    "transaction_id": "TXN-0001268",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "CLOSED",
+    "created_date": "2026-06-21",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "dispute_id": "DSP-00003",
+    "customer_id": "CUST-1074",
+    "transaction_id": "TXN-0001580",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-07-07",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "dispute_id": "DSP-00004",
+    "customer_id": "CUST-1049",
+    "transaction_id": "TXN-0001053",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "OPEN",
+    "created_date": "2026-10-01",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "dispute_id": "DSP-00005",
+    "customer_id": "CUST-1046",
+    "transaction_id": "TXN-0001001",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "RESOLVED",
+    "created_date": "2026-07-06",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "dispute_id": "DSP-00006",
+    "customer_id": "CUST-1091",
+    "transaction_id": "TXN-0001927",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-07-20",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "dispute_id": "DSP-00007",
+    "customer_id": "CUST-1074",
+    "transaction_id": "TXN-0001582",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-07-17",
+    "last_updated": "2026-09-28"
+  },
+  {
+    "dispute_id": "DSP-00008",
+    "customer_id": "CUST-1090",
+    "transaction_id": "TXN-0001903",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-09-19",
+    "last_updated": "2026-09-05"
+  },
+  {
+    "dispute_id": "DSP-00009",
+    "customer_id": "CUST-1068",
+    "transaction_id": "TXN-0001467",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "CLOSED",
+    "created_date": "2026-09-05",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "dispute_id": "DSP-00010",
+    "customer_id": "CUST-1039",
+    "transaction_id": "TXN-0000844",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-20",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "dispute_id": "DSP-00011",
+    "customer_id": "CUST-1002",
+    "transaction_id": "TXN-0000033",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "RESOLVED",
+    "created_date": "2026-08-20",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "dispute_id": "DSP-00012",
+    "customer_id": "CUST-1031",
+    "transaction_id": "TXN-0000662",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-05",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "dispute_id": "DSP-00013",
+    "customer_id": "CUST-1039",
+    "transaction_id": "TXN-0000846",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-09-03",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "dispute_id": "DSP-00014",
+    "customer_id": "CUST-1060",
+    "transaction_id": "TXN-0001287",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "RESOLVED",
+    "created_date": "2026-06-08",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "dispute_id": "DSP-00015",
+    "customer_id": "CUST-1063",
+    "transaction_id": "TXN-0001374",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "CLOSED",
+    "created_date": "2026-08-20",
+    "last_updated": "2026-09-04"
+  },
+  {
+    "dispute_id": "DSP-00016",
+    "customer_id": "CUST-1053",
+    "transaction_id": "TXN-0001154",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-09-02",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00017",
+    "customer_id": "CUST-1062",
+    "transaction_id": "TXN-0001354",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "RESOLVED",
+    "created_date": "2026-06-30",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "dispute_id": "DSP-00018",
+    "customer_id": "CUST-1059",
+    "transaction_id": "TXN-0001260",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-06-25",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "dispute_id": "DSP-00019",
+    "customer_id": "CUST-1058",
+    "transaction_id": "TXN-0001251",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "OPEN",
+    "created_date": "2026-08-14",
+    "last_updated": "2026-09-15"
+  },
+  {
+    "dispute_id": "DSP-00020",
+    "customer_id": "CUST-1046",
+    "transaction_id": "TXN-0001002",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-06-19",
+    "last_updated": "2026-09-11"
+  },
+  {
+    "dispute_id": "DSP-00021",
+    "customer_id": "CUST-1049",
+    "transaction_id": "TXN-0001059",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-08-28",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "dispute_id": "DSP-00022",
+    "customer_id": "CUST-1051",
+    "transaction_id": "TXN-0001105",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-10-01",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "dispute_id": "DSP-00023",
+    "customer_id": "CUST-1033",
+    "transaction_id": "TXN-0000702",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-27",
+    "last_updated": "2026-09-15"
+  },
+  {
+    "dispute_id": "DSP-00024",
+    "customer_id": "CUST-1062",
+    "transaction_id": "TXN-0001345",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "CLOSED",
+    "created_date": "2026-09-17",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "dispute_id": "DSP-00025",
+    "customer_id": "CUST-1092",
+    "transaction_id": "TXN-0001954",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-07-22",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "dispute_id": "DSP-00026",
+    "customer_id": "CUST-1100",
+    "transaction_id": "TXN-0002140",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "RESOLVED",
+    "created_date": "2026-09-21",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "dispute_id": "DSP-00027",
+    "customer_id": "CUST-1031",
+    "transaction_id": "TXN-0000646",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "OPEN",
+    "created_date": "2026-06-11",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "dispute_id": "DSP-00028",
+    "customer_id": "CUST-1086",
+    "transaction_id": "TXN-0001825",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-07-07",
+    "last_updated": "2026-09-28"
+  },
+  {
+    "dispute_id": "DSP-00029",
+    "customer_id": "CUST-1022",
+    "transaction_id": "TXN-0000472",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-08-03",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "dispute_id": "DSP-00030",
+    "customer_id": "CUST-1057",
+    "transaction_id": "TXN-0001235",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "RESOLVED",
+    "created_date": "2026-09-09",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00031",
+    "customer_id": "CUST-1079",
+    "transaction_id": "TXN-0001691",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "RESOLVED",
+    "created_date": "2026-08-04",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "dispute_id": "DSP-00032",
+    "customer_id": "CUST-1026",
+    "transaction_id": "TXN-0000541",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-02",
+    "last_updated": "2026-10-03"
+  },
+  {
+    "dispute_id": "DSP-00033",
+    "customer_id": "CUST-1008",
+    "transaction_id": "TXN-0000176",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "RESOLVED",
+    "created_date": "2026-07-23",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "dispute_id": "DSP-00034",
+    "customer_id": "CUST-1058",
+    "transaction_id": "TXN-0001247",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-09-15",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "dispute_id": "DSP-00035",
+    "customer_id": "CUST-1042",
+    "transaction_id": "TXN-0000916",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "OPEN",
+    "created_date": "2026-06-20",
+    "last_updated": "2026-10-03"
+  },
+  {
+    "dispute_id": "DSP-00036",
+    "customer_id": "CUST-1028",
+    "transaction_id": "TXN-0000580",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-09-20",
+    "last_updated": "2026-09-29"
+  },
+  {
+    "dispute_id": "DSP-00037",
+    "customer_id": "CUST-1022",
+    "transaction_id": "TXN-0000471",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "CLOSED",
+    "created_date": "2026-08-22",
+    "last_updated": "2026-09-06"
+  },
+  {
+    "dispute_id": "DSP-00038",
+    "customer_id": "CUST-1075",
+    "transaction_id": "TXN-0001612",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-09-09",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "dispute_id": "DSP-00039",
+    "customer_id": "CUST-1064",
+    "transaction_id": "TXN-0001382",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-10-03",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "dispute_id": "DSP-00040",
+    "customer_id": "CUST-1083",
+    "transaction_id": "TXN-0001763",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-06-05",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "dispute_id": "DSP-00041",
+    "customer_id": "CUST-1049",
+    "transaction_id": "TXN-0001070",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-07-25",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00042",
+    "customer_id": "CUST-1036",
+    "transaction_id": "TXN-0000775",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "RESOLVED",
+    "created_date": "2026-08-14",
+    "last_updated": "2026-09-21"
+  },
+  {
+    "dispute_id": "DSP-00043",
+    "customer_id": "CUST-1042",
+    "transaction_id": "TXN-0000907",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "OPEN",
+    "created_date": "2026-09-05",
+    "last_updated": "2026-09-04"
+  },
+  {
+    "dispute_id": "DSP-00044",
+    "customer_id": "CUST-1070",
+    "transaction_id": "TXN-0001520",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-27",
+    "last_updated": "2026-09-05"
+  },
+  {
+    "dispute_id": "DSP-00045",
+    "customer_id": "CUST-1035",
+    "transaction_id": "TXN-0000752",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "CLOSED",
+    "created_date": "2026-09-13",
+    "last_updated": "2026-09-04"
+  },
+  {
+    "dispute_id": "DSP-00046",
+    "customer_id": "CUST-1026",
+    "transaction_id": "TXN-0000556",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-09",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00047",
+    "customer_id": "CUST-1089",
+    "transaction_id": "TXN-0001874",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-31",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "dispute_id": "DSP-00048",
+    "customer_id": "CUST-1040",
+    "transaction_id": "TXN-0000852",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-10-01",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00049",
+    "customer_id": "CUST-1044",
+    "transaction_id": "TXN-0000951",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-07-04",
+    "last_updated": "2026-09-15"
+  },
+  {
+    "dispute_id": "DSP-00050",
+    "customer_id": "CUST-1080",
+    "transaction_id": "TXN-0001703",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "CLOSED",
+    "created_date": "2026-06-25",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "dispute_id": "DSP-00051",
+    "customer_id": "CUST-1005",
+    "transaction_id": "TXN-0000115",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-05",
+    "last_updated": "2026-09-11"
+  },
+  {
+    "dispute_id": "DSP-00052",
+    "customer_id": "CUST-1028",
+    "transaction_id": "TXN-0000577",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "RESOLVED",
+    "created_date": "2026-08-16",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "dispute_id": "DSP-00053",
+    "customer_id": "CUST-1009",
+    "transaction_id": "TXN-0000206",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-07-13",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "dispute_id": "DSP-00054",
+    "customer_id": "CUST-1094",
+    "transaction_id": "TXN-0001996",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-09-25",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "dispute_id": "DSP-00055",
+    "customer_id": "CUST-1050",
+    "transaction_id": "TXN-0001080",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-08-26",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "dispute_id": "DSP-00056",
+    "customer_id": "CUST-1061",
+    "transaction_id": "TXN-0001305",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-04",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "dispute_id": "DSP-00057",
+    "customer_id": "CUST-1070",
+    "transaction_id": "TXN-0001502",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-13",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "dispute_id": "DSP-00058",
+    "customer_id": "CUST-1053",
+    "transaction_id": "TXN-0001149",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-08-21",
+    "last_updated": "2026-09-28"
+  },
+  {
+    "dispute_id": "DSP-00059",
+    "customer_id": "CUST-1086",
+    "transaction_id": "TXN-0001837",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-08",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "dispute_id": "DSP-00060",
+    "customer_id": "CUST-1026",
+    "transaction_id": "TXN-0000547",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-07-16",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "dispute_id": "DSP-00061",
+    "customer_id": "CUST-1044",
+    "transaction_id": "TXN-0000958",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-10-01",
+    "last_updated": "2026-09-29"
+  },
+  {
+    "dispute_id": "DSP-00062",
+    "customer_id": "CUST-1062",
+    "transaction_id": "TXN-0001353",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-09-06",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "dispute_id": "DSP-00063",
+    "customer_id": "CUST-1002",
+    "transaction_id": "TXN-0000041",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-05",
+    "last_updated": "2026-09-27"
+  },
+  {
+    "dispute_id": "DSP-00064",
+    "customer_id": "CUST-1048",
+    "transaction_id": "TXN-0001039",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-08-08",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "dispute_id": "DSP-00065",
+    "customer_id": "CUST-1024",
+    "transaction_id": "TXN-0000504",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-06-25",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "dispute_id": "DSP-00066",
+    "customer_id": "CUST-1070",
+    "transaction_id": "TXN-0001496",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "CLOSED",
+    "created_date": "2026-06-16",
+    "last_updated": "2026-09-20"
+  },
+  {
+    "dispute_id": "DSP-00067",
+    "customer_id": "CUST-1028",
+    "transaction_id": "TXN-0000582",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-06-29",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "dispute_id": "DSP-00068",
+    "customer_id": "CUST-1060",
+    "transaction_id": "TXN-0001292",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-11",
+    "last_updated": "2026-09-25"
+  },
+  {
+    "dispute_id": "DSP-00069",
+    "customer_id": "CUST-1070",
+    "transaction_id": "TXN-0001517",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-23",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "dispute_id": "DSP-00070",
+    "customer_id": "CUST-1034",
+    "transaction_id": "TXN-0000709",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "RESOLVED",
+    "created_date": "2026-06-21",
+    "last_updated": "2026-09-18"
+  },
+  {
+    "dispute_id": "DSP-00071",
+    "customer_id": "CUST-1033",
+    "transaction_id": "TXN-0000699",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-06",
+    "last_updated": "2026-09-25"
+  },
+  {
+    "dispute_id": "DSP-00072",
+    "customer_id": "CUST-1026",
+    "transaction_id": "TXN-0000540",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-07-26",
+    "last_updated": "2026-09-24"
+  },
+  {
+    "dispute_id": "DSP-00073",
+    "customer_id": "CUST-1089",
+    "transaction_id": "TXN-0001878",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "OPEN",
+    "created_date": "2026-09-22",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "dispute_id": "DSP-00074",
+    "customer_id": "CUST-1032",
+    "transaction_id": "TXN-0000668",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-27",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "dispute_id": "DSP-00075",
+    "customer_id": "CUST-1071",
+    "transaction_id": "TXN-0001530",
+    "dispute_type": "ATM_DEBITED_NO_CASH",
+    "status": "CLOSED",
+    "created_date": "2026-06-21",
+    "last_updated": "2026-09-05"
+  },
+  {
+    "dispute_id": "DSP-00076",
+    "customer_id": "CUST-1079",
+    "transaction_id": "TXN-0001695",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "CLOSED",
+    "created_date": "2026-07-02",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "dispute_id": "DSP-00077",
+    "customer_id": "CUST-1019",
+    "transaction_id": "TXN-0000417",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "CLOSED",
+    "created_date": "2026-08-23",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "dispute_id": "DSP-00078",
+    "customer_id": "CUST-1049",
+    "transaction_id": "TXN-0001067",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-07-16",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "dispute_id": "DSP-00079",
+    "customer_id": "CUST-1035",
+    "transaction_id": "TXN-0000750",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "OPEN",
+    "created_date": "2026-08-15",
+    "last_updated": "2026-09-22"
+  },
+  {
+    "dispute_id": "DSP-00080",
+    "customer_id": "CUST-1043",
+    "transaction_id": "TXN-0000932",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "CLOSED",
+    "created_date": "2026-09-14",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "dispute_id": "DSP-00081",
+    "customer_id": "CUST-1091",
+    "transaction_id": "TXN-0001922",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-21",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "dispute_id": "DSP-00082",
+    "customer_id": "CUST-1012",
+    "transaction_id": "TXN-0000263",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-24",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "dispute_id": "DSP-00083",
+    "customer_id": "CUST-1008",
+    "transaction_id": "TXN-0000165",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "RESOLVED",
+    "created_date": "2026-08-15",
+    "last_updated": "2026-09-21"
+  },
+  {
+    "dispute_id": "DSP-00084",
+    "customer_id": "CUST-1053",
+    "transaction_id": "TXN-0001155",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-06-08",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "dispute_id": "DSP-00085",
+    "customer_id": "CUST-1029",
+    "transaction_id": "TXN-0000604",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "CLOSED",
+    "created_date": "2026-09-02",
+    "last_updated": "2026-09-13"
+  },
+  {
+    "dispute_id": "DSP-00086",
+    "customer_id": "CUST-1036",
+    "transaction_id": "TXN-0000769",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-06-24",
+    "last_updated": "2026-09-28"
+  },
+  {
+    "dispute_id": "DSP-00087",
+    "customer_id": "CUST-1019",
+    "transaction_id": "TXN-0000409",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "OPEN",
+    "created_date": "2026-09-22",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "dispute_id": "DSP-00088",
+    "customer_id": "CUST-1023",
+    "transaction_id": "TXN-0000489",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "CLOSED",
+    "created_date": "2026-07-30",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "dispute_id": "DSP-00089",
+    "customer_id": "CUST-1045",
+    "transaction_id": "TXN-0000966",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-07-07",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "dispute_id": "DSP-00090",
+    "customer_id": "CUST-1080",
+    "transaction_id": "TXN-0001704",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-07-10",
+    "last_updated": "2026-09-04"
+  },
+  {
+    "dispute_id": "DSP-00091",
+    "customer_id": "CUST-1014",
+    "transaction_id": "TXN-0000303",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-06-15",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "dispute_id": "DSP-00092",
+    "customer_id": "CUST-1093",
+    "transaction_id": "TXN-0001986",
+    "dispute_type": "CARD_PAYMENT_DUPLICATE",
+    "status": "OPEN",
+    "created_date": "2026-06-23",
+    "last_updated": "2026-09-13"
+  },
+  {
+    "dispute_id": "DSP-00093",
+    "customer_id": "CUST-1043",
+    "transaction_id": "TXN-0000924",
+    "dispute_type": "UNAUTHORIZED_TRANSACTION",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-08-19",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "dispute_id": "DSP-00094",
+    "customer_id": "CUST-1048",
+    "transaction_id": "TXN-0001032",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-09-11",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "dispute_id": "DSP-00095",
+    "customer_id": "CUST-1061",
+    "transaction_id": "TXN-0001304",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "OPEN",
+    "created_date": "2026-08-01",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "dispute_id": "DSP-00096",
+    "customer_id": "CUST-1034",
+    "transaction_id": "TXN-0000708",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-06-10",
+    "last_updated": "2026-09-18"
+  },
+  {
+    "dispute_id": "DSP-00097",
+    "customer_id": "CUST-1074",
+    "transaction_id": "TXN-0001589",
+    "dispute_type": "REFUND_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-09-02",
+    "last_updated": "2026-09-26"
+  },
+  {
+    "dispute_id": "DSP-00098",
+    "customer_id": "CUST-1088",
+    "transaction_id": "TXN-0001862",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-10-01",
+    "last_updated": "2026-09-22"
+  },
+  {
+    "dispute_id": "DSP-00099",
+    "customer_id": "CUST-1055",
+    "transaction_id": "TXN-0001185",
+    "dispute_type": "CARD_PAYMENT_DISPUTE",
+    "status": "UNDER_REVIEW",
+    "created_date": "2026-09-19",
+    "last_updated": "2026-09-21"
+  },
+  {
+    "dispute_id": "DSP-00100",
+    "customer_id": "CUST-1034",
+    "transaction_id": "TXN-0000722",
+    "dispute_type": "UPI_DEBITED_NOT_RECEIVED",
+    "status": "RESOLVED",
+    "created_date": "2026-07-08",
+    "last_updated": "2026-09-08"
+  }
+]

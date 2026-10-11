@@ -1,0 +1,702 @@
+[
+  {
+    "upi_profile_id": "UPI-00001",
+    "customer_id": "CUST-1001",
+    "vpa": "customer1@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00002",
+    "customer_id": "CUST-1002",
+    "vpa": "customer2@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00003",
+    "customer_id": "CUST-1003",
+    "vpa": "customer3@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00004",
+    "customer_id": "CUST-1004",
+    "vpa": "customer4@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00005",
+    "customer_id": "CUST-1005",
+    "vpa": "customer5@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00006",
+    "customer_id": "CUST-1006",
+    "vpa": "customer6@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00007",
+    "customer_id": "CUST-1007",
+    "vpa": "customer7@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00008",
+    "customer_id": "CUST-1008",
+    "vpa": "customer8@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00009",
+    "customer_id": "CUST-1009",
+    "vpa": "customer9@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00010",
+    "customer_id": "CUST-1010",
+    "vpa": "customer10@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00011",
+    "customer_id": "CUST-1011",
+    "vpa": "customer11@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00012",
+    "customer_id": "CUST-1012",
+    "vpa": "customer12@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00013",
+    "customer_id": "CUST-1013",
+    "vpa": "customer13@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00014",
+    "customer_id": "CUST-1014",
+    "vpa": "customer14@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00015",
+    "customer_id": "CUST-1015",
+    "vpa": "customer15@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00016",
+    "customer_id": "CUST-1016",
+    "vpa": "customer16@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00017",
+    "customer_id": "CUST-1017",
+    "vpa": "customer17@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00018",
+    "customer_id": "CUST-1018",
+    "vpa": "customer18@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00019",
+    "customer_id": "CUST-1019",
+    "vpa": "customer19@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00020",
+    "customer_id": "CUST-1020",
+    "vpa": "customer20@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00021",
+    "customer_id": "CUST-1021",
+    "vpa": "customer21@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00022",
+    "customer_id": "CUST-1022",
+    "vpa": "customer22@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00023",
+    "customer_id": "CUST-1023",
+    "vpa": "customer23@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00024",
+    "customer_id": "CUST-1024",
+    "vpa": "customer24@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00025",
+    "customer_id": "CUST-1025",
+    "vpa": "customer25@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00026",
+    "customer_id": "CUST-1026",
+    "vpa": "customer26@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00027",
+    "customer_id": "CUST-1027",
+    "vpa": "customer27@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00028",
+    "customer_id": "CUST-1028",
+    "vpa": "customer28@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00029",
+    "customer_id": "CUST-1029",
+    "vpa": "customer29@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00030",
+    "customer_id": "CUST-1030",
+    "vpa": "customer30@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00031",
+    "customer_id": "CUST-1031",
+    "vpa": "customer31@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00032",
+    "customer_id": "CUST-1032",
+    "vpa": "customer32@upi",
+    "status": "BLOCKED",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00033",
+    "customer_id": "CUST-1033",
+    "vpa": "customer33@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00034",
+    "customer_id": "CUST-1034",
+    "vpa": "customer34@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00035",
+    "customer_id": "CUST-1035",
+    "vpa": "customer35@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00036",
+    "customer_id": "CUST-1036",
+    "vpa": "customer36@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00037",
+    "customer_id": "CUST-1037",
+    "vpa": "customer37@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00038",
+    "customer_id": "CUST-1038",
+    "vpa": "customer38@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00039",
+    "customer_id": "CUST-1039",
+    "vpa": "customer39@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00040",
+    "customer_id": "CUST-1040",
+    "vpa": "customer40@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00041",
+    "customer_id": "CUST-1041",
+    "vpa": "customer41@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00042",
+    "customer_id": "CUST-1042",
+    "vpa": "customer42@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00043",
+    "customer_id": "CUST-1043",
+    "vpa": "customer43@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00044",
+    "customer_id": "CUST-1044",
+    "vpa": "customer44@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00045",
+    "customer_id": "CUST-1045",
+    "vpa": "customer45@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00046",
+    "customer_id": "CUST-1046",
+    "vpa": "customer46@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00047",
+    "customer_id": "CUST-1047",
+    "vpa": "customer47@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00048",
+    "customer_id": "CUST-1048",
+    "vpa": "customer48@upi",
+    "status": "BLOCKED",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00049",
+    "customer_id": "CUST-1049",
+    "vpa": "customer49@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00050",
+    "customer_id": "CUST-1050",
+    "vpa": "customer50@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00051",
+    "customer_id": "CUST-1051",
+    "vpa": "customer51@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00052",
+    "customer_id": "CUST-1052",
+    "vpa": "customer52@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00053",
+    "customer_id": "CUST-1053",
+    "vpa": "customer53@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00054",
+    "customer_id": "CUST-1054",
+    "vpa": "customer54@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00055",
+    "customer_id": "CUST-1055",
+    "vpa": "customer55@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00056",
+    "customer_id": "CUST-1056",
+    "vpa": "customer56@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00057",
+    "customer_id": "CUST-1057",
+    "vpa": "customer57@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00058",
+    "customer_id": "CUST-1058",
+    "vpa": "customer58@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00059",
+    "customer_id": "CUST-1059",
+    "vpa": "customer59@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00060",
+    "customer_id": "CUST-1060",
+    "vpa": "customer60@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00061",
+    "customer_id": "CUST-1061",
+    "vpa": "customer61@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00062",
+    "customer_id": "CUST-1062",
+    "vpa": "customer62@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00063",
+    "customer_id": "CUST-1063",
+    "vpa": "customer63@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00064",
+    "customer_id": "CUST-1064",
+    "vpa": "customer64@upi",
+    "status": "BLOCKED",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00065",
+    "customer_id": "CUST-1065",
+    "vpa": "customer65@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00066",
+    "customer_id": "CUST-1066",
+    "vpa": "customer66@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00067",
+    "customer_id": "CUST-1067",
+    "vpa": "customer67@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00068",
+    "customer_id": "CUST-1068",
+    "vpa": "customer68@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00069",
+    "customer_id": "CUST-1069",
+    "vpa": "customer69@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00070",
+    "customer_id": "CUST-1070",
+    "vpa": "customer70@upi",
+    "status": "BLOCKED",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00071",
+    "customer_id": "CUST-1071",
+    "vpa": "customer71@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00072",
+    "customer_id": "CUST-1072",
+    "vpa": "customer72@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00073",
+    "customer_id": "CUST-1073",
+    "vpa": "customer73@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00074",
+    "customer_id": "CUST-1074",
+    "vpa": "customer74@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00075",
+    "customer_id": "CUST-1075",
+    "vpa": "customer75@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00076",
+    "customer_id": "CUST-1076",
+    "vpa": "customer76@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00077",
+    "customer_id": "CUST-1077",
+    "vpa": "customer77@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00078",
+    "customer_id": "CUST-1078",
+    "vpa": "customer78@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00079",
+    "customer_id": "CUST-1079",
+    "vpa": "customer79@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00080",
+    "customer_id": "CUST-1080",
+    "vpa": "customer80@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00081",
+    "customer_id": "CUST-1081",
+    "vpa": "customer81@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00082",
+    "customer_id": "CUST-1082",
+    "vpa": "customer82@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00083",
+    "customer_id": "CUST-1083",
+    "vpa": "customer83@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00084",
+    "customer_id": "CUST-1084",
+    "vpa": "customer84@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00085",
+    "customer_id": "CUST-1085",
+    "vpa": "customer85@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00086",
+    "customer_id": "CUST-1086",
+    "vpa": "customer86@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00087",
+    "customer_id": "CUST-1087",
+    "vpa": "customer87@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00088",
+    "customer_id": "CUST-1088",
+    "vpa": "customer88@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00089",
+    "customer_id": "CUST-1089",
+    "vpa": "customer89@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00090",
+    "customer_id": "CUST-1090",
+    "vpa": "customer90@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00091",
+    "customer_id": "CUST-1091",
+    "vpa": "customer91@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00092",
+    "customer_id": "CUST-1092",
+    "vpa": "customer92@upi",
+    "status": "BLOCKED",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00093",
+    "customer_id": "CUST-1093",
+    "vpa": "customer93@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00094",
+    "customer_id": "CUST-1094",
+    "vpa": "customer94@upi",
+    "status": "ACTIVE",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00095",
+    "customer_id": "CUST-1095",
+    "vpa": "customer95@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00096",
+    "customer_id": "CUST-1096",
+    "vpa": "customer96@upi",
+    "status": "BLOCKED",
+    "daily_limit": 100000
+  },
+  {
+    "upi_profile_id": "UPI-00097",
+    "customer_id": "CUST-1097",
+    "vpa": "customer97@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00098",
+    "customer_id": "CUST-1098",
+    "vpa": "customer98@upi",
+    "status": "ACTIVE",
+    "daily_limit": 200000
+  },
+  {
+    "upi_profile_id": "UPI-00099",
+    "customer_id": "CUST-1099",
+    "vpa": "customer99@upi",
+    "status": "ACTIVE",
+    "daily_limit": 50000
+  },
+  {
+    "upi_profile_id": "UPI-00100",
+    "customer_id": "CUST-1100",
+    "vpa": "customer100@upi",
+    "status": "BLOCKED",
+    "daily_limit": 200000
+  }
+]

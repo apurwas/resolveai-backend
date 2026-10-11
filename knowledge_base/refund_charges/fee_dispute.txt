@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Fee Dispute Policy
+
+Policy ID:
+REF-003
+
+Version:
+1.0
+
+Domain:
+Refunds & Charges
+
+Applicable Intent:
+FEE_DISPUTE
+
+Issue:
+Customer disputes a bank fee or charge.
+
+Agent Procedure:
+1. Retrieve the relevant account or transaction record.
+2. Identify the fee type, amount, date, and applicable product or service.
+3. Check the applicable fee schedule or account terms.
+4. Determine whether the fee appears consistent with the applicable terms.
+
+Resolution Guidance:
+Do not promise a fee reversal without verifying eligibility and applicable policy.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate exceptions or cases where the applicable fee rule cannot be established.
+
+Agent Response Guidance:
+Explain the fee being reviewed and provide the applicable next step.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

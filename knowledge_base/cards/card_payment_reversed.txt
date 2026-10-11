@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Card Payment Reversed Policy
+
+Policy ID:
+CARD-004
+
+Version:
+1.0
+
+Domain:
+Cards
+
+Applicable Intent:
+CARD_PAYMENT_REVERSED
+
+Issue:
+Customer reports that a card transaction was reversed.
+
+Agent Procedure:
+1. Retrieve the card transaction.
+2. Verify authorization, reversal status, amount, and merchant information.
+3. Confirm whether the reversal has affected the customer's account.
+4. Follow the applicable reversal process.
+
+Resolution Guidance:
+Do not confirm a completed reversal without verified transaction data.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when reversal status and account balance do not align.
+
+Agent Response Guidance:
+Explain that the transaction and reversal status are being verified.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

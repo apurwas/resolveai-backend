@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+UPI Debited but Merchant Did Not Receive Funds Policy
+
+Policy ID:
+UPI-004
+
+Version:
+1.0
+
+Domain:
+UPI
+
+Applicable Intent:
+UPI_DEBITED_NOT_RECEIVED
+
+Issue:
+Customer's account was debited but the merchant reports that the payment was not received.
+
+Agent Procedure:
+1. Retrieve and verify the UPI transaction.
+2. Check transaction status, amount, timestamp, reference number, and beneficiary information.
+3. Determine whether the transaction is successful, pending, failed, or reversed.
+4. Follow the applicable dispute or reversal process based on the verified status.
+
+Resolution Guidance:
+Do not ask the customer to make another payment until the original transaction status is established.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate when transaction data is inconsistent, funds cannot be traced, or fraud is suspected.
+
+Agent Response Guidance:
+Acknowledge the debit and explain that the transaction status and recipient-side outcome are being investigated.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

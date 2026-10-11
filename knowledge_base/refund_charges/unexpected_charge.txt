@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Unexpected Charge Policy
+
+Policy ID:
+REF-002
+
+Version:
+1.0
+
+Domain:
+Refunds & Charges
+
+Applicable Intent:
+UNEXPECTED_CHARGE
+
+Issue:
+Customer reports an unexpected charge or debit.
+
+Agent Procedure:
+1. Verify the customer and retrieve the relevant transaction.
+2. Check transaction type, amount, date, merchant or charge description.
+3. Determine whether the charge is a known fee, merchant transaction, or potentially unauthorized transaction.
+4. Follow the applicable dispute or investigation process.
+
+Resolution Guidance:
+Do not label a transaction fraudulent without appropriate evidence and process.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate suspected unauthorized transactions according to the fraud procedure.
+
+Agent Response Guidance:
+Acknowledge the unexpected charge and explain that the transaction is being investigated.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

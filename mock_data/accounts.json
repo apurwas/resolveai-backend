@@ -1,0 +1,1235 @@
+[
+  {
+    "account_id": "ACC-0001-01",
+    "customer_id": "CUST-1001",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 350579.0,
+    "currency": "INR",
+    "opened_date": "2024-11-06"
+  },
+  {
+    "account_id": "ACC-0002-01",
+    "customer_id": "CUST-1002",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 110250.14,
+    "currency": "INR",
+    "opened_date": "2023-12-16"
+  },
+  {
+    "account_id": "ACC-0003-01",
+    "customer_id": "CUST-1003",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 477138.88,
+    "currency": "INR",
+    "opened_date": "2021-11-05"
+  },
+  {
+    "account_id": "ACC-0004-01",
+    "customer_id": "CUST-1004",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 357909.74,
+    "currency": "INR",
+    "opened_date": "2024-07-08"
+  },
+  {
+    "account_id": "ACC-0004-02",
+    "customer_id": "CUST-1004",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 221859.54,
+    "currency": "INR",
+    "opened_date": "2023-11-09"
+  },
+  {
+    "account_id": "ACC-0005-01",
+    "customer_id": "CUST-1005",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 214671.42,
+    "currency": "INR",
+    "opened_date": "2024-02-20"
+  },
+  {
+    "account_id": "ACC-0006-01",
+    "customer_id": "CUST-1006",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 38918.06,
+    "currency": "INR",
+    "opened_date": "2026-05-17"
+  },
+  {
+    "account_id": "ACC-0006-02",
+    "customer_id": "CUST-1006",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 204868.9,
+    "currency": "INR",
+    "opened_date": "2021-06-23"
+  },
+  {
+    "account_id": "ACC-0006-03",
+    "customer_id": "CUST-1006",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 291564.93,
+    "currency": "INR",
+    "opened_date": "2026-07-14"
+  },
+  {
+    "account_id": "ACC-0007-01",
+    "customer_id": "CUST-1007",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 84983.08,
+    "currency": "INR",
+    "opened_date": "2024-04-12"
+  },
+  {
+    "account_id": "ACC-0008-01",
+    "customer_id": "CUST-1008",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 402106.39,
+    "currency": "INR",
+    "opened_date": "2021-11-29"
+  },
+  {
+    "account_id": "ACC-0009-01",
+    "customer_id": "CUST-1009",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 256025.64,
+    "currency": "INR",
+    "opened_date": "2023-01-07"
+  },
+  {
+    "account_id": "ACC-0009-02",
+    "customer_id": "CUST-1009",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 204188.19,
+    "currency": "INR",
+    "opened_date": "2025-02-05"
+  },
+  {
+    "account_id": "ACC-0010-01",
+    "customer_id": "CUST-1010",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 492048.33,
+    "currency": "INR",
+    "opened_date": "2023-05-01"
+  },
+  {
+    "account_id": "ACC-0011-01",
+    "customer_id": "CUST-1011",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 133299.82,
+    "currency": "INR",
+    "opened_date": "2025-05-15"
+  },
+  {
+    "account_id": "ACC-0011-02",
+    "customer_id": "CUST-1011",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 384077.77,
+    "currency": "INR",
+    "opened_date": "2023-11-01"
+  },
+  {
+    "account_id": "ACC-0012-01",
+    "customer_id": "CUST-1012",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 94955.87,
+    "currency": "INR",
+    "opened_date": "2025-04-19"
+  },
+  {
+    "account_id": "ACC-0013-01",
+    "customer_id": "CUST-1013",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 390006.98,
+    "currency": "INR",
+    "opened_date": "2025-11-02"
+  },
+  {
+    "account_id": "ACC-0014-01",
+    "customer_id": "CUST-1014",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 412053.8,
+    "currency": "INR",
+    "opened_date": "2026-03-01"
+  },
+  {
+    "account_id": "ACC-0015-01",
+    "customer_id": "CUST-1015",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 279812.22,
+    "currency": "INR",
+    "opened_date": "2025-05-29"
+  },
+  {
+    "account_id": "ACC-0016-01",
+    "customer_id": "CUST-1016",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 490352.76,
+    "currency": "INR",
+    "opened_date": "2022-02-01"
+  },
+  {
+    "account_id": "ACC-0017-01",
+    "customer_id": "CUST-1017",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 80104.87,
+    "currency": "INR",
+    "opened_date": "2022-03-17"
+  },
+  {
+    "account_id": "ACC-0018-01",
+    "customer_id": "CUST-1018",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 471624.74,
+    "currency": "INR",
+    "opened_date": "2023-12-14"
+  },
+  {
+    "account_id": "ACC-0019-01",
+    "customer_id": "CUST-1019",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 208764.32,
+    "currency": "INR",
+    "opened_date": "2023-12-24"
+  },
+  {
+    "account_id": "ACC-0020-01",
+    "customer_id": "CUST-1020",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 356342.5,
+    "currency": "INR",
+    "opened_date": "2025-01-05"
+  },
+  {
+    "account_id": "ACC-0020-02",
+    "customer_id": "CUST-1020",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 278364.45,
+    "currency": "INR",
+    "opened_date": "2026-03-27"
+  },
+  {
+    "account_id": "ACC-0020-03",
+    "customer_id": "CUST-1020",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 233416.71,
+    "currency": "INR",
+    "opened_date": "2026-02-05"
+  },
+  {
+    "account_id": "ACC-0021-01",
+    "customer_id": "CUST-1021",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 230395.59,
+    "currency": "INR",
+    "opened_date": "2024-12-13"
+  },
+  {
+    "account_id": "ACC-0022-01",
+    "customer_id": "CUST-1022",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 190546.34,
+    "currency": "INR",
+    "opened_date": "2025-12-09"
+  },
+  {
+    "account_id": "ACC-0022-02",
+    "customer_id": "CUST-1022",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 285134.39,
+    "currency": "INR",
+    "opened_date": "2022-04-24"
+  },
+  {
+    "account_id": "ACC-0023-01",
+    "customer_id": "CUST-1023",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 455755.39,
+    "currency": "INR",
+    "opened_date": "2022-07-30"
+  },
+  {
+    "account_id": "ACC-0023-02",
+    "customer_id": "CUST-1023",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 388991.78,
+    "currency": "INR",
+    "opened_date": "2025-06-19"
+  },
+  {
+    "account_id": "ACC-0024-01",
+    "customer_id": "CUST-1024",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 378304.99,
+    "currency": "INR",
+    "opened_date": "2025-06-28"
+  },
+  {
+    "account_id": "ACC-0025-01",
+    "customer_id": "CUST-1025",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 497984.05,
+    "currency": "INR",
+    "opened_date": "2026-02-08"
+  },
+  {
+    "account_id": "ACC-0026-01",
+    "customer_id": "CUST-1026",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 333070.53,
+    "currency": "INR",
+    "opened_date": "2023-02-27"
+  },
+  {
+    "account_id": "ACC-0026-02",
+    "customer_id": "CUST-1026",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 30036.36,
+    "currency": "INR",
+    "opened_date": "2024-11-19"
+  },
+  {
+    "account_id": "ACC-0027-01",
+    "customer_id": "CUST-1027",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 240741.75,
+    "currency": "INR",
+    "opened_date": "2022-05-24"
+  },
+  {
+    "account_id": "ACC-0028-01",
+    "customer_id": "CUST-1028",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 229589.13,
+    "currency": "INR",
+    "opened_date": "2023-05-13"
+  },
+  {
+    "account_id": "ACC-0028-02",
+    "customer_id": "CUST-1028",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 397582.57,
+    "currency": "INR",
+    "opened_date": "2026-02-11"
+  },
+  {
+    "account_id": "ACC-0028-03",
+    "customer_id": "CUST-1028",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 217884.62,
+    "currency": "INR",
+    "opened_date": "2021-10-11"
+  },
+  {
+    "account_id": "ACC-0029-01",
+    "customer_id": "CUST-1029",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 285328.94,
+    "currency": "INR",
+    "opened_date": "2024-07-05"
+  },
+  {
+    "account_id": "ACC-0030-01",
+    "customer_id": "CUST-1030",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 252629.86,
+    "currency": "INR",
+    "opened_date": "2022-01-31"
+  },
+  {
+    "account_id": "ACC-0031-01",
+    "customer_id": "CUST-1031",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 114678.17,
+    "currency": "INR",
+    "opened_date": "2022-05-22"
+  },
+  {
+    "account_id": "ACC-0032-01",
+    "customer_id": "CUST-1032",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 234042.27,
+    "currency": "INR",
+    "opened_date": "2023-08-25"
+  },
+  {
+    "account_id": "ACC-0032-02",
+    "customer_id": "CUST-1032",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 227618.18,
+    "currency": "INR",
+    "opened_date": "2022-03-20"
+  },
+  {
+    "account_id": "ACC-0033-01",
+    "customer_id": "CUST-1033",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 363248.16,
+    "currency": "INR",
+    "opened_date": "2023-01-28"
+  },
+  {
+    "account_id": "ACC-0033-02",
+    "customer_id": "CUST-1033",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 170014.21,
+    "currency": "INR",
+    "opened_date": "2023-06-28"
+  },
+  {
+    "account_id": "ACC-0034-01",
+    "customer_id": "CUST-1034",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 483302.74,
+    "currency": "INR",
+    "opened_date": "2022-03-06"
+  },
+  {
+    "account_id": "ACC-0034-02",
+    "customer_id": "CUST-1034",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 437135.95,
+    "currency": "INR",
+    "opened_date": "2026-06-19"
+  },
+  {
+    "account_id": "ACC-0035-01",
+    "customer_id": "CUST-1035",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 149179.63,
+    "currency": "INR",
+    "opened_date": "2026-09-30"
+  },
+  {
+    "account_id": "ACC-0036-01",
+    "customer_id": "CUST-1036",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 490505.5,
+    "currency": "INR",
+    "opened_date": "2024-01-27"
+  },
+  {
+    "account_id": "ACC-0037-01",
+    "customer_id": "CUST-1037",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 309351.48,
+    "currency": "INR",
+    "opened_date": "2024-04-26"
+  },
+  {
+    "account_id": "ACC-0038-01",
+    "customer_id": "CUST-1038",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 134579.45,
+    "currency": "INR",
+    "opened_date": "2025-04-18"
+  },
+  {
+    "account_id": "ACC-0039-01",
+    "customer_id": "CUST-1039",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 265219.35,
+    "currency": "INR",
+    "opened_date": "2022-06-11"
+  },
+  {
+    "account_id": "ACC-0040-01",
+    "customer_id": "CUST-1040",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 322744.11,
+    "currency": "INR",
+    "opened_date": "2025-01-23"
+  },
+  {
+    "account_id": "ACC-0041-01",
+    "customer_id": "CUST-1041",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 98967.88,
+    "currency": "INR",
+    "opened_date": "2025-11-11"
+  },
+  {
+    "account_id": "ACC-0041-02",
+    "customer_id": "CUST-1041",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 251886.06,
+    "currency": "INR",
+    "opened_date": "2025-01-10"
+  },
+  {
+    "account_id": "ACC-0042-01",
+    "customer_id": "CUST-1042",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 413529.1,
+    "currency": "INR",
+    "opened_date": "2023-04-06"
+  },
+  {
+    "account_id": "ACC-0043-01",
+    "customer_id": "CUST-1043",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 187337.12,
+    "currency": "INR",
+    "opened_date": "2022-12-24"
+  },
+  {
+    "account_id": "ACC-0044-01",
+    "customer_id": "CUST-1044",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 282638.95,
+    "currency": "INR",
+    "opened_date": "2023-01-16"
+  },
+  {
+    "account_id": "ACC-0045-01",
+    "customer_id": "CUST-1045",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 206419.19,
+    "currency": "INR",
+    "opened_date": "2021-07-07"
+  },
+  {
+    "account_id": "ACC-0045-02",
+    "customer_id": "CUST-1045",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 327016.65,
+    "currency": "INR",
+    "opened_date": "2022-07-08"
+  },
+  {
+    "account_id": "ACC-0046-01",
+    "customer_id": "CUST-1046",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 229902.79,
+    "currency": "INR",
+    "opened_date": "2023-02-28"
+  },
+  {
+    "account_id": "ACC-0047-01",
+    "customer_id": "CUST-1047",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 346693.74,
+    "currency": "INR",
+    "opened_date": "2023-03-05"
+  },
+  {
+    "account_id": "ACC-0048-01",
+    "customer_id": "CUST-1048",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 288487.33,
+    "currency": "INR",
+    "opened_date": "2025-12-01"
+  },
+  {
+    "account_id": "ACC-0048-02",
+    "customer_id": "CUST-1048",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 427970.57,
+    "currency": "INR",
+    "opened_date": "2024-04-12"
+  },
+  {
+    "account_id": "ACC-0049-01",
+    "customer_id": "CUST-1049",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 268307.14,
+    "currency": "INR",
+    "opened_date": "2022-02-20"
+  },
+  {
+    "account_id": "ACC-0049-02",
+    "customer_id": "CUST-1049",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 233009.51,
+    "currency": "INR",
+    "opened_date": "2025-11-20"
+  },
+  {
+    "account_id": "ACC-0050-01",
+    "customer_id": "CUST-1050",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 290850.03,
+    "currency": "INR",
+    "opened_date": "2022-06-04"
+  },
+  {
+    "account_id": "ACC-0050-02",
+    "customer_id": "CUST-1050",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 122267.5,
+    "currency": "INR",
+    "opened_date": "2021-11-04"
+  },
+  {
+    "account_id": "ACC-0051-01",
+    "customer_id": "CUST-1051",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 468894.08,
+    "currency": "INR",
+    "opened_date": "2021-05-12"
+  },
+  {
+    "account_id": "ACC-0052-01",
+    "customer_id": "CUST-1052",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 277568.05,
+    "currency": "INR",
+    "opened_date": "2021-06-19"
+  },
+  {
+    "account_id": "ACC-0053-01",
+    "customer_id": "CUST-1053",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 331345.75,
+    "currency": "INR",
+    "opened_date": "2026-09-01"
+  },
+  {
+    "account_id": "ACC-0054-01",
+    "customer_id": "CUST-1054",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 252429.9,
+    "currency": "INR",
+    "opened_date": "2024-04-28"
+  },
+  {
+    "account_id": "ACC-0055-01",
+    "customer_id": "CUST-1055",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 195003.88,
+    "currency": "INR",
+    "opened_date": "2022-08-11"
+  },
+  {
+    "account_id": "ACC-0055-02",
+    "customer_id": "CUST-1055",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 252892.46,
+    "currency": "INR",
+    "opened_date": "2021-04-17"
+  },
+  {
+    "account_id": "ACC-0056-01",
+    "customer_id": "CUST-1056",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 11108.6,
+    "currency": "INR",
+    "opened_date": "2024-06-08"
+  },
+  {
+    "account_id": "ACC-0057-01",
+    "customer_id": "CUST-1057",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 403017.85,
+    "currency": "INR",
+    "opened_date": "2024-11-28"
+  },
+  {
+    "account_id": "ACC-0058-01",
+    "customer_id": "CUST-1058",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 124800.48,
+    "currency": "INR",
+    "opened_date": "2023-01-24"
+  },
+  {
+    "account_id": "ACC-0058-02",
+    "customer_id": "CUST-1058",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 395593.0,
+    "currency": "INR",
+    "opened_date": "2026-05-05"
+  },
+  {
+    "account_id": "ACC-0059-01",
+    "customer_id": "CUST-1059",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 62454.32,
+    "currency": "INR",
+    "opened_date": "2021-06-25"
+  },
+  {
+    "account_id": "ACC-0060-01",
+    "customer_id": "CUST-1060",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 197473.71,
+    "currency": "INR",
+    "opened_date": "2022-10-21"
+  },
+  {
+    "account_id": "ACC-0060-02",
+    "customer_id": "CUST-1060",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 142780.69,
+    "currency": "INR",
+    "opened_date": "2022-10-23"
+  },
+  {
+    "account_id": "ACC-0061-01",
+    "customer_id": "CUST-1061",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 189786.51,
+    "currency": "INR",
+    "opened_date": "2025-12-18"
+  },
+  {
+    "account_id": "ACC-0062-01",
+    "customer_id": "CUST-1062",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 271116.27,
+    "currency": "INR",
+    "opened_date": "2025-10-24"
+  },
+  {
+    "account_id": "ACC-0063-01",
+    "customer_id": "CUST-1063",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 165208.54,
+    "currency": "INR",
+    "opened_date": "2022-10-23"
+  },
+  {
+    "account_id": "ACC-0064-01",
+    "customer_id": "CUST-1064",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 475375.77,
+    "currency": "INR",
+    "opened_date": "2024-12-02"
+  },
+  {
+    "account_id": "ACC-0064-02",
+    "customer_id": "CUST-1064",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 435109.34,
+    "currency": "INR",
+    "opened_date": "2022-01-03"
+  },
+  {
+    "account_id": "ACC-0065-01",
+    "customer_id": "CUST-1065",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 30634.7,
+    "currency": "INR",
+    "opened_date": "2023-04-01"
+  },
+  {
+    "account_id": "ACC-0066-01",
+    "customer_id": "CUST-1066",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 186943.04,
+    "currency": "INR",
+    "opened_date": "2025-01-29"
+  },
+  {
+    "account_id": "ACC-0066-02",
+    "customer_id": "CUST-1066",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 387862.94,
+    "currency": "INR",
+    "opened_date": "2022-07-14"
+  },
+  {
+    "account_id": "ACC-0067-01",
+    "customer_id": "CUST-1067",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 390589.98,
+    "currency": "INR",
+    "opened_date": "2022-11-19"
+  },
+  {
+    "account_id": "ACC-0068-01",
+    "customer_id": "CUST-1068",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 142346.53,
+    "currency": "INR",
+    "opened_date": "2025-01-07"
+  },
+  {
+    "account_id": "ACC-0069-01",
+    "customer_id": "CUST-1069",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 250593.05,
+    "currency": "INR",
+    "opened_date": "2023-11-22"
+  },
+  {
+    "account_id": "ACC-0069-02",
+    "customer_id": "CUST-1069",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 252306.95,
+    "currency": "INR",
+    "opened_date": "2023-07-31"
+  },
+  {
+    "account_id": "ACC-0070-01",
+    "customer_id": "CUST-1070",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 115476.61,
+    "currency": "INR",
+    "opened_date": "2023-11-12"
+  },
+  {
+    "account_id": "ACC-0071-01",
+    "customer_id": "CUST-1071",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 248554.29,
+    "currency": "INR",
+    "opened_date": "2026-06-03"
+  },
+  {
+    "account_id": "ACC-0072-01",
+    "customer_id": "CUST-1072",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 404760.47,
+    "currency": "INR",
+    "opened_date": "2025-01-18"
+  },
+  {
+    "account_id": "ACC-0072-02",
+    "customer_id": "CUST-1072",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 111435.29,
+    "currency": "INR",
+    "opened_date": "2021-12-14"
+  },
+  {
+    "account_id": "ACC-0073-01",
+    "customer_id": "CUST-1073",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 143528.0,
+    "currency": "INR",
+    "opened_date": "2021-10-20"
+  },
+  {
+    "account_id": "ACC-0074-01",
+    "customer_id": "CUST-1074",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 269176.33,
+    "currency": "INR",
+    "opened_date": "2022-04-27"
+  },
+  {
+    "account_id": "ACC-0075-01",
+    "customer_id": "CUST-1075",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 359884.13,
+    "currency": "INR",
+    "opened_date": "2021-08-09"
+  },
+  {
+    "account_id": "ACC-0076-01",
+    "customer_id": "CUST-1076",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 321625.15,
+    "currency": "INR",
+    "opened_date": "2026-03-04"
+  },
+  {
+    "account_id": "ACC-0077-01",
+    "customer_id": "CUST-1077",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 275787.9,
+    "currency": "INR",
+    "opened_date": "2021-09-20"
+  },
+  {
+    "account_id": "ACC-0077-02",
+    "customer_id": "CUST-1077",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 299045.12,
+    "currency": "INR",
+    "opened_date": "2023-04-26"
+  },
+  {
+    "account_id": "ACC-0078-01",
+    "customer_id": "CUST-1078",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 247102.92,
+    "currency": "INR",
+    "opened_date": "2023-01-19"
+  },
+  {
+    "account_id": "ACC-0079-01",
+    "customer_id": "CUST-1079",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 197109.08,
+    "currency": "INR",
+    "opened_date": "2024-07-12"
+  },
+  {
+    "account_id": "ACC-0079-02",
+    "customer_id": "CUST-1079",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 429028.97,
+    "currency": "INR",
+    "opened_date": "2023-11-04"
+  },
+  {
+    "account_id": "ACC-0080-01",
+    "customer_id": "CUST-1080",
+    "account_type": "SAVINGS",
+    "status": "BLOCKED",
+    "available_balance": 460813.32,
+    "currency": "INR",
+    "opened_date": "2021-09-22"
+  },
+  {
+    "account_id": "ACC-0080-02",
+    "customer_id": "CUST-1080",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 172243.71,
+    "currency": "INR",
+    "opened_date": "2022-04-22"
+  },
+  {
+    "account_id": "ACC-0081-01",
+    "customer_id": "CUST-1081",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 412635.61,
+    "currency": "INR",
+    "opened_date": "2023-12-04"
+  },
+  {
+    "account_id": "ACC-0081-02",
+    "customer_id": "CUST-1081",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 342181.31,
+    "currency": "INR",
+    "opened_date": "2025-05-26"
+  },
+  {
+    "account_id": "ACC-0082-01",
+    "customer_id": "CUST-1082",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 494238.68,
+    "currency": "INR",
+    "opened_date": "2023-03-02"
+  },
+  {
+    "account_id": "ACC-0083-01",
+    "customer_id": "CUST-1083",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 328945.15,
+    "currency": "INR",
+    "opened_date": "2025-07-05"
+  },
+  {
+    "account_id": "ACC-0083-02",
+    "customer_id": "CUST-1083",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 373383.92,
+    "currency": "INR",
+    "opened_date": "2025-01-13"
+  },
+  {
+    "account_id": "ACC-0084-01",
+    "customer_id": "CUST-1084",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 319076.99,
+    "currency": "INR",
+    "opened_date": "2026-09-24"
+  },
+  {
+    "account_id": "ACC-0085-01",
+    "customer_id": "CUST-1085",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 219664.29,
+    "currency": "INR",
+    "opened_date": "2022-11-27"
+  },
+  {
+    "account_id": "ACC-0085-02",
+    "customer_id": "CUST-1085",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 498088.76,
+    "currency": "INR",
+    "opened_date": "2024-01-04"
+  },
+  {
+    "account_id": "ACC-0086-01",
+    "customer_id": "CUST-1086",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 239826.19,
+    "currency": "INR",
+    "opened_date": "2025-11-24"
+  },
+  {
+    "account_id": "ACC-0087-01",
+    "customer_id": "CUST-1087",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 453905.62,
+    "currency": "INR",
+    "opened_date": "2022-01-27"
+  },
+  {
+    "account_id": "ACC-0088-01",
+    "customer_id": "CUST-1088",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 439845.39,
+    "currency": "INR",
+    "opened_date": "2026-03-27"
+  },
+  {
+    "account_id": "ACC-0088-02",
+    "customer_id": "CUST-1088",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 95520.36,
+    "currency": "INR",
+    "opened_date": "2024-07-05"
+  },
+  {
+    "account_id": "ACC-0089-01",
+    "customer_id": "CUST-1089",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 11118.31,
+    "currency": "INR",
+    "opened_date": "2021-11-20"
+  },
+  {
+    "account_id": "ACC-0090-01",
+    "customer_id": "CUST-1090",
+    "account_type": "CURRENT",
+    "status": "BLOCKED",
+    "available_balance": 359745.74,
+    "currency": "INR",
+    "opened_date": "2024-09-19"
+  },
+  {
+    "account_id": "ACC-0091-01",
+    "customer_id": "CUST-1091",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 482108.1,
+    "currency": "INR",
+    "opened_date": "2026-09-25"
+  },
+  {
+    "account_id": "ACC-0091-02",
+    "customer_id": "CUST-1091",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 278847.03,
+    "currency": "INR",
+    "opened_date": "2024-04-30"
+  },
+  {
+    "account_id": "ACC-0092-01",
+    "customer_id": "CUST-1092",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 254427.25,
+    "currency": "INR",
+    "opened_date": "2022-11-12"
+  },
+  {
+    "account_id": "ACC-0093-01",
+    "customer_id": "CUST-1093",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 456185.76,
+    "currency": "INR",
+    "opened_date": "2022-10-21"
+  },
+  {
+    "account_id": "ACC-0094-01",
+    "customer_id": "CUST-1094",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 387962.17,
+    "currency": "INR",
+    "opened_date": "2023-04-02"
+  },
+  {
+    "account_id": "ACC-0094-02",
+    "customer_id": "CUST-1094",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 247822.72,
+    "currency": "INR",
+    "opened_date": "2023-07-19"
+  },
+  {
+    "account_id": "ACC-0095-01",
+    "customer_id": "CUST-1095",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 26706.57,
+    "currency": "INR",
+    "opened_date": "2021-09-20"
+  },
+  {
+    "account_id": "ACC-0095-02",
+    "customer_id": "CUST-1095",
+    "account_type": "CURRENT",
+    "status": "ACTIVE",
+    "available_balance": 163554.81,
+    "currency": "INR",
+    "opened_date": "2026-04-18"
+  },
+  {
+    "account_id": "ACC-0096-01",
+    "customer_id": "CUST-1096",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 281251.68,
+    "currency": "INR",
+    "opened_date": "2023-07-14"
+  },
+  {
+    "account_id": "ACC-0097-01",
+    "customer_id": "CUST-1097",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 84672.41,
+    "currency": "INR",
+    "opened_date": "2025-07-08"
+  },
+  {
+    "account_id": "ACC-0098-01",
+    "customer_id": "CUST-1098",
+    "account_type": "SALARY",
+    "status": "BLOCKED",
+    "available_balance": 278077.55,
+    "currency": "INR",
+    "opened_date": "2025-10-09"
+  },
+  {
+    "account_id": "ACC-0099-01",
+    "customer_id": "CUST-1099",
+    "account_type": "SALARY",
+    "status": "ACTIVE",
+    "available_balance": 36116.27,
+    "currency": "INR",
+    "opened_date": "2024-09-07"
+  },
+  {
+    "account_id": "ACC-0100-01",
+    "customer_id": "CUST-1100",
+    "account_type": "SAVINGS",
+    "status": "ACTIVE",
+    "available_balance": 97518.31,
+    "currency": "INR",
+    "opened_date": "2024-09-22"
+  }
+]

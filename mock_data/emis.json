@@ -1,0 +1,1394 @@
+[
+  {
+    "emi_id": "EMI-0001-01",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 8500,
+    "due_date": "2026-07-11",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0001-02",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 18500,
+    "due_date": "2026-09-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0001-03",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 8500,
+    "due_date": "2026-08-16",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0001-04",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 18500,
+    "due_date": "2026-09-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0001-05",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 12000,
+    "due_date": "2026-07-10",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0001-06",
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "amount": 8500,
+    "due_date": "2026-07-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0005-01",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 42000,
+    "due_date": "2026-06-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0005-02",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 8500,
+    "due_date": "2026-06-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0005-03",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 12000,
+    "due_date": "2026-09-12",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0005-04",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 25000,
+    "due_date": "2026-09-06",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0005-05",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 8500,
+    "due_date": "2026-09-12",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0005-06",
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "amount": 25000,
+    "due_date": "2026-08-31",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0006-01",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 42000,
+    "due_date": "2026-07-05",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0006-02",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 42000,
+    "due_date": "2026-10-02",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0006-03",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 42000,
+    "due_date": "2026-08-26",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0006-04",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 8500,
+    "due_date": "2026-06-05",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0006-05",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 18500,
+    "due_date": "2026-09-19",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0006-06",
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "amount": 42000,
+    "due_date": "2026-09-14",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0008-01",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 42000,
+    "due_date": "2026-08-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0008-02",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 42000,
+    "due_date": "2026-08-22",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0008-03",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 8500,
+    "due_date": "2026-06-13",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0008-04",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 12000,
+    "due_date": "2026-07-21",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0008-05",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 18500,
+    "due_date": "2026-09-29",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0008-06",
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "amount": 25000,
+    "due_date": "2026-08-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0011-01",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 25000,
+    "due_date": "2026-08-15",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0011-02",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 42000,
+    "due_date": "2026-07-06",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0011-03",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 42000,
+    "due_date": "2026-08-16",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0011-04",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 18500,
+    "due_date": "2026-08-26",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0011-05",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 25000,
+    "due_date": "2026-07-27",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0011-06",
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "amount": 42000,
+    "due_date": "2026-06-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-01",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 42000,
+    "due_date": "2026-08-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-02",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 12000,
+    "due_date": "2026-08-28",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-03",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 25000,
+    "due_date": "2026-09-24",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-04",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 18500,
+    "due_date": "2026-06-25",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-05",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 42000,
+    "due_date": "2026-07-11",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0017-06",
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "amount": 12000,
+    "due_date": "2026-08-10",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0021-01",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 18500,
+    "due_date": "2026-08-21",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0021-02",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 25000,
+    "due_date": "2026-07-12",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0021-03",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 18500,
+    "due_date": "2026-06-16",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0021-04",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 42000,
+    "due_date": "2026-08-16",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0021-05",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 25000,
+    "due_date": "2026-06-14",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0021-06",
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "amount": 42000,
+    "due_date": "2026-09-25",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0028-01",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 42000,
+    "due_date": "2026-07-24",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0028-02",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 8500,
+    "due_date": "2026-08-12",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0028-03",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 25000,
+    "due_date": "2026-06-14",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0028-04",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 8500,
+    "due_date": "2026-08-28",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0028-05",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 18500,
+    "due_date": "2026-09-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0028-06",
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "amount": 12000,
+    "due_date": "2026-09-14",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-01",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 25000,
+    "due_date": "2026-07-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-02",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 18500,
+    "due_date": "2026-09-06",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-03",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 8500,
+    "due_date": "2026-08-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-04",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 18500,
+    "due_date": "2026-07-09",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-05",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 25000,
+    "due_date": "2026-07-28",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0029-06",
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "amount": 8500,
+    "due_date": "2026-09-05",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0031-01",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 42000,
+    "due_date": "2026-08-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0031-02",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 42000,
+    "due_date": "2026-07-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0031-03",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 42000,
+    "due_date": "2026-08-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0031-04",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 18500,
+    "due_date": "2026-09-14",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0031-05",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 25000,
+    "due_date": "2026-08-08",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0031-06",
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "amount": 18500,
+    "due_date": "2026-07-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-01",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 8500,
+    "due_date": "2026-07-31",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-02",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 42000,
+    "due_date": "2026-09-29",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-03",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 42000,
+    "due_date": "2026-09-17",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-04",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 12000,
+    "due_date": "2026-09-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-05",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 42000,
+    "due_date": "2026-06-22",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0033-06",
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "amount": 25000,
+    "due_date": "2026-09-28",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0034-01",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 18500,
+    "due_date": "2026-06-24",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0034-02",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 8500,
+    "due_date": "2026-08-28",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0034-03",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 25000,
+    "due_date": "2026-07-06",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0034-04",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 25000,
+    "due_date": "2026-08-07",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0034-05",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 8500,
+    "due_date": "2026-10-01",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0034-06",
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "amount": 12000,
+    "due_date": "2026-07-25",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0036-01",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 18500,
+    "due_date": "2026-08-09",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0036-02",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 25000,
+    "due_date": "2026-06-11",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0036-03",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 18500,
+    "due_date": "2026-09-10",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0036-04",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 25000,
+    "due_date": "2026-08-17",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0036-05",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 42000,
+    "due_date": "2026-08-30",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0036-06",
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "amount": 25000,
+    "due_date": "2026-09-23",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0039-01",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 42000,
+    "due_date": "2026-06-11",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0039-02",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 8500,
+    "due_date": "2026-09-01",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0039-03",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 42000,
+    "due_date": "2026-08-29",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0039-04",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 18500,
+    "due_date": "2026-07-17",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0039-05",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 42000,
+    "due_date": "2026-07-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0039-06",
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "amount": 42000,
+    "due_date": "2026-09-14",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0044-01",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 42000,
+    "due_date": "2026-07-09",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0044-02",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 25000,
+    "due_date": "2026-06-21",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0044-03",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 12000,
+    "due_date": "2026-08-27",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0044-04",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 8500,
+    "due_date": "2026-08-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0044-05",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 18500,
+    "due_date": "2026-06-30",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0044-06",
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "amount": 12000,
+    "due_date": "2026-06-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0046-01",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 25000,
+    "due_date": "2026-06-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0046-02",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 18500,
+    "due_date": "2026-09-22",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0046-03",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 8500,
+    "due_date": "2026-09-10",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0046-04",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 25000,
+    "due_date": "2026-08-23",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0046-05",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 8500,
+    "due_date": "2026-08-31",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0046-06",
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "amount": 25000,
+    "due_date": "2026-06-29",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0048-01",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 8500,
+    "due_date": "2026-06-06",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0048-02",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 18500,
+    "due_date": "2026-08-12",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0048-03",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 12000,
+    "due_date": "2026-06-27",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0048-04",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 25000,
+    "due_date": "2026-08-17",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0048-05",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 25000,
+    "due_date": "2026-08-07",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0048-06",
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "amount": 25000,
+    "due_date": "2026-08-16",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0050-01",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 25000,
+    "due_date": "2026-09-03",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0050-02",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 18500,
+    "due_date": "2026-06-16",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0050-03",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 25000,
+    "due_date": "2026-06-08",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0050-04",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 25000,
+    "due_date": "2026-08-11",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0050-05",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 12000,
+    "due_date": "2026-08-15",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0050-06",
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "amount": 12000,
+    "due_date": "2026-08-22",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-01",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 42000,
+    "due_date": "2026-08-27",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-02",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 8500,
+    "due_date": "2026-09-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-03",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 25000,
+    "due_date": "2026-07-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-04",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 12000,
+    "due_date": "2026-07-01",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-05",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 18500,
+    "due_date": "2026-09-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0055-06",
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "amount": 18500,
+    "due_date": "2026-08-08",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0071-01",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 12000,
+    "due_date": "2026-09-03",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0071-02",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 18500,
+    "due_date": "2026-06-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0071-03",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 18500,
+    "due_date": "2026-08-24",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0071-04",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 12000,
+    "due_date": "2026-09-24",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0071-05",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 12000,
+    "due_date": "2026-06-26",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0071-06",
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "amount": 8500,
+    "due_date": "2026-09-14",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0072-01",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 25000,
+    "due_date": "2026-08-17",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0072-02",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 8500,
+    "due_date": "2026-07-21",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0072-03",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 8500,
+    "due_date": "2026-10-01",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0072-04",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 12000,
+    "due_date": "2026-06-10",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0072-05",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 12000,
+    "due_date": "2026-09-22",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0072-06",
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "amount": 18500,
+    "due_date": "2026-09-18",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0076-01",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 8500,
+    "due_date": "2026-08-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0076-02",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 8500,
+    "due_date": "2026-07-03",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0076-03",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 25000,
+    "due_date": "2026-08-08",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0076-04",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 12000,
+    "due_date": "2026-06-12",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0076-05",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 25000,
+    "due_date": "2026-08-20",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0076-06",
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "amount": 8500,
+    "due_date": "2026-06-19",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0078-01",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 25000,
+    "due_date": "2026-06-21",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0078-02",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 42000,
+    "due_date": "2026-07-08",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0078-03",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 25000,
+    "due_date": "2026-07-22",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0078-04",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 25000,
+    "due_date": "2026-08-26",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0078-05",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 8500,
+    "due_date": "2026-07-31",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0078-06",
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "amount": 42000,
+    "due_date": "2026-06-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0081-01",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 25000,
+    "due_date": "2026-07-30",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0081-02",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 8500,
+    "due_date": "2026-08-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0081-03",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 12000,
+    "due_date": "2026-07-19",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0081-04",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 12000,
+    "due_date": "2026-09-01",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0081-05",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 18500,
+    "due_date": "2026-07-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0081-06",
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "amount": 18500,
+    "due_date": "2026-08-10",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0089-01",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 12000,
+    "due_date": "2026-09-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0089-02",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 42000,
+    "due_date": "2026-08-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0089-03",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 25000,
+    "due_date": "2026-08-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0089-04",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 25000,
+    "due_date": "2026-06-30",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0089-05",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 8500,
+    "due_date": "2026-08-13",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0089-06",
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "amount": 42000,
+    "due_date": "2026-07-25",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0092-01",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 12000,
+    "due_date": "2026-06-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0092-02",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 18500,
+    "due_date": "2026-09-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0092-03",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 8500,
+    "due_date": "2026-08-19",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0092-04",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 8500,
+    "due_date": "2026-07-17",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0092-05",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 42000,
+    "due_date": "2026-06-15",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0092-06",
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "amount": 42000,
+    "due_date": "2026-08-15",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0096-01",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 8500,
+    "due_date": "2026-08-19",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0096-02",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 8500,
+    "due_date": "2026-08-27",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0096-03",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 18500,
+    "due_date": "2026-07-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0096-04",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 25000,
+    "due_date": "2026-08-16",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0096-05",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 8500,
+    "due_date": "2026-08-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0096-06",
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "amount": 12000,
+    "due_date": "2026-09-16",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-01",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 12000,
+    "due_date": "2026-09-21",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-02",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 8500,
+    "due_date": "2026-06-10",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-03",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 25000,
+    "due_date": "2026-08-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-04",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 18500,
+    "due_date": "2026-07-07",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-05",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 42000,
+    "due_date": "2026-07-23",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0097-06",
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "amount": 18500,
+    "due_date": "2026-08-10",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0098-01",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 42000,
+    "due_date": "2026-08-31",
+    "status": "FAILED"
+  },
+  {
+    "emi_id": "EMI-0098-02",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 42000,
+    "due_date": "2026-08-04",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0098-03",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 12000,
+    "due_date": "2026-08-18",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0098-04",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 42000,
+    "due_date": "2026-07-02",
+    "status": "PAID"
+  },
+  {
+    "emi_id": "EMI-0098-05",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 12000,
+    "due_date": "2026-08-05",
+    "status": "PENDING"
+  },
+  {
+    "emi_id": "EMI-0098-06",
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "amount": 8500,
+    "due_date": "2026-08-14",
+    "status": "PAID"
+  }
+]

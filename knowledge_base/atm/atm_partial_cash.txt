@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+ATM Partial Cash Dispensation Policy
+
+Policy ID:
+ATM-002
+
+Version:
+1.0
+
+Domain:
+ATM
+
+Applicable Intent:
+ATM_PARTIAL_CASH
+
+Issue:
+Customer reports that the ATM dispensed less cash than the amount debited or requested.
+
+Agent Procedure:
+1. Retrieve the ATM transaction and verify requested amount.
+2. Capture the amount actually dispensed if available.
+3. Compare the transaction record with the customer's reported cash received.
+4. Follow the applicable partial-dispense dispute process.
+
+Resolution Guidance:
+Do not assume the missing amount without verifying transaction and ATM records.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate when the transaction and ATM records cannot establish the dispensed amount.
+
+Agent Response Guidance:
+Acknowledge the partial-dispense issue and explain that transaction and ATM records are being checked.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

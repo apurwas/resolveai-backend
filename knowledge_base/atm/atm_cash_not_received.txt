@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+ATM Cash Not Received Policy
+
+Policy ID:
+ATM-003
+
+Version:
+1.0
+
+Domain:
+ATM
+
+Applicable Intent:
+ATM_CASH_NOT_RECEIVED
+
+Issue:
+Customer reports an issue receiving cash from an ATM.
+
+Agent Procedure:
+1. Verify the customer and retrieve the relevant ATM transaction.
+2. Check transaction amount, status, ATM identifier, and timestamp.
+3. Determine whether the transaction was debited, reversed, failed, or remains unresolved.
+4. Follow the applicable ATM investigation process.
+
+Resolution Guidance:
+Do not confirm a refund or reversal without verified transaction evidence.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate when transaction data is unavailable, inconsistent, or indicates suspected fraud.
+
+Agent Response Guidance:
+Acknowledge the cash issue and explain that the ATM transaction is being investigated.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

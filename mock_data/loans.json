@@ -1,0 +1,263 @@
+[
+  {
+    "loan_id": "LOAN-00001",
+    "customer_id": "CUST-1001",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 5000000,
+    "outstanding_amount": 4377718.18,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00005",
+    "customer_id": "CUST-1005",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 117607.0,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00006",
+    "customer_id": "CUST-1006",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 174305.13,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00008",
+    "customer_id": "CUST-1008",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 1283425.67,
+    "interest_rate": 8.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00011",
+    "customer_id": "CUST-1011",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 1287682.26,
+    "interest_rate": 11.75,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00017",
+    "customer_id": "CUST-1017",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 500000,
+    "outstanding_amount": 329397.48,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00021",
+    "customer_id": "CUST-1021",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 153917.7,
+    "interest_rate": 11.75,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00028",
+    "customer_id": "CUST-1028",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 1000000,
+    "outstanding_amount": 827650.04,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00029",
+    "customer_id": "CUST-1029",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 147615.93,
+    "interest_rate": 10.5,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00031",
+    "customer_id": "CUST-1031",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 83029.0,
+    "interest_rate": 11.75,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00033",
+    "customer_id": "CUST-1033",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 500000,
+    "outstanding_amount": 223626.49,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00034",
+    "customer_id": "CUST-1034",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 1000000,
+    "outstanding_amount": 445950.19,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00036",
+    "customer_id": "CUST-1036",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 500000,
+    "outstanding_amount": 242986.04,
+    "interest_rate": 8.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00039",
+    "customer_id": "CUST-1039",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 1000000,
+    "outstanding_amount": 907579.59,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00044",
+    "customer_id": "CUST-1044",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 1265191.21,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00046",
+    "customer_id": "CUST-1046",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 5000000,
+    "outstanding_amount": 3691803.7,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00048",
+    "customer_id": "CUST-1048",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 1000000,
+    "outstanding_amount": 755250.17,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00050",
+    "customer_id": "CUST-1050",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 992478.61,
+    "interest_rate": 11.75,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00055",
+    "customer_id": "CUST-1055",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 1451752.91,
+    "interest_rate": 12.5,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00071",
+    "customer_id": "CUST-1071",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 136946.45,
+    "interest_rate": 8.5,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00072",
+    "customer_id": "CUST-1072",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 61554.4,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00076",
+    "customer_id": "CUST-1076",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 1000000,
+    "outstanding_amount": 590309.46,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00078",
+    "customer_id": "CUST-1078",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 2500000,
+    "outstanding_amount": 2327396.5,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00081",
+    "customer_id": "CUST-1081",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 500000,
+    "outstanding_amount": 428561.14,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00089",
+    "customer_id": "CUST-1089",
+    "loan_type": "HOME_LOAN",
+    "principal_amount": 200000,
+    "outstanding_amount": 125900.81,
+    "interest_rate": 12.5,
+    "status": "CLOSED"
+  },
+  {
+    "loan_id": "LOAN-00092",
+    "customer_id": "CUST-1092",
+    "loan_type": "PERSONAL_LOAN",
+    "principal_amount": 500000,
+    "outstanding_amount": 236767.94,
+    "interest_rate": 9.25,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00096",
+    "customer_id": "CUST-1096",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 5000000,
+    "outstanding_amount": 1705522.17,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00097",
+    "customer_id": "CUST-1097",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 5000000,
+    "outstanding_amount": 3083368.83,
+    "interest_rate": 10.5,
+    "status": "ACTIVE"
+  },
+  {
+    "loan_id": "LOAN-00098",
+    "customer_id": "CUST-1098",
+    "loan_type": "AUTO_LOAN",
+    "principal_amount": 5000000,
+    "outstanding_amount": 2816687.02,
+    "interest_rate": 12.5,
+    "status": "ACTIVE"
+  }
+]

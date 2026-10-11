@@ -1,0 +1,40 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+MPIN Issue Policy
+
+Policy ID:
+ACC-003
+
+Version:
+1.0
+
+Domain:
+Account
+
+Applicable Intent:
+MPIN_ISSUE
+
+Issue:
+Customer reports an issue with their MPIN.
+
+Agent Procedure:
+1. Verify the customer using the approved authentication process.
+2. Determine whether the MPIN is forgotten, locked, or failing authentication.
+3. Guide the customer through the approved MPIN reset or unlock process.
+
+Resolution Guidance:
+Never request the customer's current MPIN.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate suspected account takeover or repeated authentication failures.
+
+Agent Response Guidance:
+Guide the customer through the secure MPIN recovery process without requesting their MPIN.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+UPI Payment Failed Policy
+
+Policy ID:
+UPI-001
+
+Version:
+1.0
+
+Domain:
+UPI
+
+Applicable Intent:
+UPI_PAYMENT_FAILED
+
+Issue:
+Customer reports that a UPI payment failed.
+
+Agent Procedure:
+1. Verify the customer and retrieve the relevant UPI transaction.
+2. Check transaction status, amount, timestamp, and reference number.
+3. Determine whether the transaction is failed, pending, reversed, or successful.
+4. If the transaction is confirmed failed, follow the applicable retry or reversal process.
+
+Resolution Guidance:
+Do not ask the customer to make repeated payments until the transaction status has been verified.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when transaction status is inconsistent or fraud is suspected.
+
+Agent Response Guidance:
+Acknowledge the failed payment and explain that the transaction status is being verified.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

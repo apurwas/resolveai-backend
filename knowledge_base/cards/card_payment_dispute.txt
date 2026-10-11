@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Card Payment Dispute Policy
+
+Policy ID:
+CARD-002
+
+Version:
+1.0
+
+Domain:
+Cards
+
+Applicable Intent:
+CARD_PAYMENT_DISPUTE
+
+Issue:
+Customer disputes a card transaction.
+
+Agent Procedure:
+1. Verify the customer and retrieve the disputed transaction.
+2. Confirm merchant, amount, date, and transaction status.
+3. Capture the customer's dispute reason.
+4. Follow the applicable card dispute process.
+
+Resolution Guidance:
+Do not guarantee a dispute outcome before the required investigation is completed.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate according to the applicable dispute or fraud procedure.
+
+Agent Response Guidance:
+Acknowledge the disputed transaction and explain the next investigation step.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

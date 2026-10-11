@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Duplicate Card Payment Policy
+
+Policy ID:
+CARD-003
+
+Version:
+1.0
+
+Domain:
+Cards
+
+Applicable Intent:
+CARD_PAYMENT_DUPLICATE
+
+Issue:
+Customer reports being charged more than once for the same purchase.
+
+Agent Procedure:
+1. Retrieve the relevant card transactions.
+2. Compare merchant, amount, timestamp, and authorization references.
+3. Determine whether the transactions are genuine duplicates or separate authorizations.
+4. Follow the applicable duplicate-transaction resolution process.
+
+Resolution Guidance:
+Do not classify transactions as duplicates solely because the amounts are identical.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when transaction records cannot establish whether the charges are duplicates.
+
+Agent Response Guidance:
+Acknowledge the duplicate-charge concern and explain that the transactions are being compared.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

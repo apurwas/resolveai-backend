@@ -1,0 +1,1802 @@
+[
+  {
+    "request_id": "SR-000001",
+    "customer_id": "CUST-1034",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-06-17",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000002",
+    "customer_id": "CUST-1025",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-08",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000003",
+    "customer_id": "CUST-1038",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-08-25",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000004",
+    "customer_id": "CUST-1067",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-10-02",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000005",
+    "customer_id": "CUST-1060",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-06-15",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000006",
+    "customer_id": "CUST-1079",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-09-24",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000007",
+    "customer_id": "CUST-1099",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-08-01",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000008",
+    "customer_id": "CUST-1080",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-14",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000009",
+    "customer_id": "CUST-1021",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-08-11",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000010",
+    "customer_id": "CUST-1035",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-08-04",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000011",
+    "customer_id": "CUST-1022",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-10-01",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000012",
+    "customer_id": "CUST-1011",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-09-15",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000013",
+    "customer_id": "CUST-1018",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-22",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000014",
+    "customer_id": "CUST-1020",
+    "request_type": "LOAN_QUERY",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-09-24",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000015",
+    "customer_id": "CUST-1099",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-14",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000016",
+    "customer_id": "CUST-1041",
+    "request_type": "KYC_UPDATE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-09-04",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000017",
+    "customer_id": "CUST-1032",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-13",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000018",
+    "customer_id": "CUST-1023",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-10",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000019",
+    "customer_id": "CUST-1006",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-08-22",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000020",
+    "customer_id": "CUST-1080",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-09-21",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000021",
+    "customer_id": "CUST-1027",
+    "request_type": "MPIN_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-28",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000022",
+    "customer_id": "CUST-1074",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-25",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000023",
+    "customer_id": "CUST-1023",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-25",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000024",
+    "customer_id": "CUST-1048",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-04",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000025",
+    "customer_id": "CUST-1069",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-27",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000026",
+    "customer_id": "CUST-1052",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-06-28",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000027",
+    "customer_id": "CUST-1015",
+    "request_type": "FEE_QUERY",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-07-24",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000028",
+    "customer_id": "CUST-1008",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-06-29",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000029",
+    "customer_id": "CUST-1087",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-11",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000030",
+    "customer_id": "CUST-1065",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-09-02",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000031",
+    "customer_id": "CUST-1067",
+    "request_type": "KYC_UPDATE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-07-14",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000032",
+    "customer_id": "CUST-1037",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-06-26",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000033",
+    "customer_id": "CUST-1077",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-06",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000034",
+    "customer_id": "CUST-1085",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-04",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000035",
+    "customer_id": "CUST-1019",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-10",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000036",
+    "customer_id": "CUST-1040",
+    "request_type": "MPIN_ISSUE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-09-13",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000037",
+    "customer_id": "CUST-1033",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-28",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000038",
+    "customer_id": "CUST-1066",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-09-22",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000039",
+    "customer_id": "CUST-1079",
+    "request_type": "REFUND_QUERY",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-07-20",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000040",
+    "customer_id": "CUST-1077",
+    "request_type": "LOAN_QUERY",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-07-12",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000041",
+    "customer_id": "CUST-1066",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-26",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000042",
+    "customer_id": "CUST-1056",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-07-01",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000043",
+    "customer_id": "CUST-1091",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-20",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000044",
+    "customer_id": "CUST-1096",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-09-09",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000045",
+    "customer_id": "CUST-1051",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-23",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000046",
+    "customer_id": "CUST-1042",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-12",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000047",
+    "customer_id": "CUST-1031",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-06-06",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000048",
+    "customer_id": "CUST-1071",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-11",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000049",
+    "customer_id": "CUST-1099",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-07",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000050",
+    "customer_id": "CUST-1069",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-06-29",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000051",
+    "customer_id": "CUST-1032",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-13",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000052",
+    "customer_id": "CUST-1079",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-06",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000053",
+    "customer_id": "CUST-1053",
+    "request_type": "MPIN_ISSUE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-14",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000054",
+    "customer_id": "CUST-1081",
+    "request_type": "FEE_QUERY",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-14",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000055",
+    "customer_id": "CUST-1014",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-06-26",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000056",
+    "customer_id": "CUST-1001",
+    "request_type": "MPIN_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-11",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000057",
+    "customer_id": "CUST-1021",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-21",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000058",
+    "customer_id": "CUST-1066",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-05",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000059",
+    "customer_id": "CUST-1094",
+    "request_type": "MPIN_ISSUE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-08-23",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000060",
+    "customer_id": "CUST-1052",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-09-21",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000061",
+    "customer_id": "CUST-1055",
+    "request_type": "KYC_UPDATE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-10-03",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000062",
+    "customer_id": "CUST-1067",
+    "request_type": "MPIN_ISSUE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-09-02",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000063",
+    "customer_id": "CUST-1080",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-08-12",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000064",
+    "customer_id": "CUST-1059",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-19",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000065",
+    "customer_id": "CUST-1054",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-26",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000066",
+    "customer_id": "CUST-1045",
+    "request_type": "REFUND_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-07-04",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000067",
+    "customer_id": "CUST-1090",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-07-06",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000068",
+    "customer_id": "CUST-1069",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-07-22",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000069",
+    "customer_id": "CUST-1018",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-25",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000070",
+    "customer_id": "CUST-1065",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-21",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000071",
+    "customer_id": "CUST-1029",
+    "request_type": "LOAN_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-15",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000072",
+    "customer_id": "CUST-1098",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-06-12",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000073",
+    "customer_id": "CUST-1075",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-08-30",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000074",
+    "customer_id": "CUST-1019",
+    "request_type": "LOAN_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-20",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000075",
+    "customer_id": "CUST-1009",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-08-02",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000076",
+    "customer_id": "CUST-1072",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-08-25",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000077",
+    "customer_id": "CUST-1033",
+    "request_type": "FEE_QUERY",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-08-13",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000078",
+    "customer_id": "CUST-1010",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-09-19",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000079",
+    "customer_id": "CUST-1060",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-29",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000080",
+    "customer_id": "CUST-1027",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-16",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000081",
+    "customer_id": "CUST-1100",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-31",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000082",
+    "customer_id": "CUST-1041",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-11",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000083",
+    "customer_id": "CUST-1051",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-18",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000084",
+    "customer_id": "CUST-1021",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-28",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000085",
+    "customer_id": "CUST-1052",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-10-01",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000086",
+    "customer_id": "CUST-1023",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-08-19",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000087",
+    "customer_id": "CUST-1014",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-14",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000088",
+    "customer_id": "CUST-1043",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-16",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000089",
+    "customer_id": "CUST-1095",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-07-25",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000090",
+    "customer_id": "CUST-1054",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-07",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000091",
+    "customer_id": "CUST-1048",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-06",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000092",
+    "customer_id": "CUST-1087",
+    "request_type": "KYC_UPDATE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-06-28",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000093",
+    "customer_id": "CUST-1014",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-13",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000094",
+    "customer_id": "CUST-1003",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-09-21",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000095",
+    "customer_id": "CUST-1034",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-07-26",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000096",
+    "customer_id": "CUST-1056",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-31",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000097",
+    "customer_id": "CUST-1093",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-28",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000098",
+    "customer_id": "CUST-1021",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-09-30",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000099",
+    "customer_id": "CUST-1081",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-06-12",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000100",
+    "customer_id": "CUST-1007",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-08-26",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000101",
+    "customer_id": "CUST-1017",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-14",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000102",
+    "customer_id": "CUST-1036",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-06-21",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000103",
+    "customer_id": "CUST-1022",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-15",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000104",
+    "customer_id": "CUST-1015",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-06-14",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000105",
+    "customer_id": "CUST-1018",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-10",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000106",
+    "customer_id": "CUST-1016",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-09-03",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000107",
+    "customer_id": "CUST-1082",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-08-31",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000108",
+    "customer_id": "CUST-1040",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-07-26",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000109",
+    "customer_id": "CUST-1088",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-19",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000110",
+    "customer_id": "CUST-1042",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-27",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000111",
+    "customer_id": "CUST-1041",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-09-16",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000112",
+    "customer_id": "CUST-1043",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-12",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000113",
+    "customer_id": "CUST-1008",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-14",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000114",
+    "customer_id": "CUST-1085",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-06-07",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000115",
+    "customer_id": "CUST-1031",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-08-01",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000116",
+    "customer_id": "CUST-1055",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-16",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000117",
+    "customer_id": "CUST-1072",
+    "request_type": "KYC_UPDATE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-25",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000118",
+    "customer_id": "CUST-1022",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-09-12",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000119",
+    "customer_id": "CUST-1018",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-19",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000120",
+    "customer_id": "CUST-1042",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-08-07",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000121",
+    "customer_id": "CUST-1008",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-18",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000122",
+    "customer_id": "CUST-1077",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-08-06",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000123",
+    "customer_id": "CUST-1035",
+    "request_type": "REFUND_QUERY",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-07-14",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000124",
+    "customer_id": "CUST-1046",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-06-14",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000125",
+    "customer_id": "CUST-1094",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-18",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000126",
+    "customer_id": "CUST-1075",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-09-08",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000127",
+    "customer_id": "CUST-1038",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-22",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000128",
+    "customer_id": "CUST-1063",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-09-05",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000129",
+    "customer_id": "CUST-1016",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-09-23",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000130",
+    "customer_id": "CUST-1089",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-10",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000131",
+    "customer_id": "CUST-1066",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-22",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000132",
+    "customer_id": "CUST-1009",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "CLOSED",
+    "created_date": "2026-07-26",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000133",
+    "customer_id": "CUST-1026",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-09-10",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000134",
+    "customer_id": "CUST-1088",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-09-18",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000135",
+    "customer_id": "CUST-1089",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-06-19",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000136",
+    "customer_id": "CUST-1042",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-09-21",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000137",
+    "customer_id": "CUST-1073",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-08",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000138",
+    "customer_id": "CUST-1025",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-08-01",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000139",
+    "customer_id": "CUST-1095",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-06-06",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000140",
+    "customer_id": "CUST-1076",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-25",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000141",
+    "customer_id": "CUST-1027",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-06-12",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000142",
+    "customer_id": "CUST-1081",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-09-27",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000143",
+    "customer_id": "CUST-1076",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-07",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000144",
+    "customer_id": "CUST-1015",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-08-03",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000145",
+    "customer_id": "CUST-1074",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-19",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000146",
+    "customer_id": "CUST-1021",
+    "request_type": "MPIN_ISSUE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-26",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000147",
+    "customer_id": "CUST-1053",
+    "request_type": "FEE_QUERY",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-09-12",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000148",
+    "customer_id": "CUST-1050",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-16",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000149",
+    "customer_id": "CUST-1093",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-08-08",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000150",
+    "customer_id": "CUST-1072",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-07-14",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000151",
+    "customer_id": "CUST-1045",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-06-18",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000152",
+    "customer_id": "CUST-1007",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-08",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000153",
+    "customer_id": "CUST-1060",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-06-21",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000154",
+    "customer_id": "CUST-1039",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-14",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000155",
+    "customer_id": "CUST-1058",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-06-07",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000156",
+    "customer_id": "CUST-1097",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-06-08",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000157",
+    "customer_id": "CUST-1043",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-10",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000158",
+    "customer_id": "CUST-1098",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-07-29",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000159",
+    "customer_id": "CUST-1011",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-14",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000160",
+    "customer_id": "CUST-1027",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-06-29",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000161",
+    "customer_id": "CUST-1069",
+    "request_type": "MPIN_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-17",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000162",
+    "customer_id": "CUST-1069",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-07-22",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000163",
+    "customer_id": "CUST-1003",
+    "request_type": "LOAN_QUERY",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-19",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000164",
+    "customer_id": "CUST-1057",
+    "request_type": "REFUND_QUERY",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-17",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000165",
+    "customer_id": "CUST-1019",
+    "request_type": "FEE_QUERY",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-07-21",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000166",
+    "customer_id": "CUST-1029",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-06-30",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000167",
+    "customer_id": "CUST-1069",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-06-30",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000168",
+    "customer_id": "CUST-1099",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-07-09",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000169",
+    "customer_id": "CUST-1003",
+    "request_type": "MPIN_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-25",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000170",
+    "customer_id": "CUST-1011",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-16",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000171",
+    "customer_id": "CUST-1061",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-08-20",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000172",
+    "customer_id": "CUST-1032",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-07-07",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000173",
+    "customer_id": "CUST-1042",
+    "request_type": "FEE_QUERY",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-28",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000174",
+    "customer_id": "CUST-1042",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-09-06",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000175",
+    "customer_id": "CUST-1027",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-06-06",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000176",
+    "customer_id": "CUST-1064",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-09-16",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000177",
+    "customer_id": "CUST-1011",
+    "request_type": "CARD_ISSUE",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-07-30",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000178",
+    "customer_id": "CUST-1052",
+    "request_type": "LOAN_QUERY",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-19",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000179",
+    "customer_id": "CUST-1080",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-15",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000180",
+    "customer_id": "CUST-1070",
+    "request_type": "KYC_UPDATE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-08-18",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000181",
+    "customer_id": "CUST-1058",
+    "request_type": "CARD_ISSUE",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "created_date": "2026-06-15",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000182",
+    "customer_id": "CUST-1049",
+    "request_type": "CARD_ISSUE",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-07-23",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000183",
+    "customer_id": "CUST-1046",
+    "request_type": "KYC_UPDATE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-16",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000184",
+    "customer_id": "CUST-1032",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-11",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000185",
+    "customer_id": "CUST-1066",
+    "request_type": "CARD_ISSUE",
+    "priority": "MEDIUM",
+    "status": "CLOSED",
+    "created_date": "2026-09-10",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000186",
+    "customer_id": "CUST-1004",
+    "request_type": "ACCOUNT_BLOCKED",
+    "priority": "HIGH",
+    "status": "CLOSED",
+    "created_date": "2026-06-27",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000187",
+    "customer_id": "CUST-1053",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-27",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000188",
+    "customer_id": "CUST-1067",
+    "request_type": "MPIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-09-01",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000189",
+    "customer_id": "CUST-1091",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-06-11",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000190",
+    "customer_id": "CUST-1080",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-22",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000191",
+    "customer_id": "CUST-1082",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-09-28",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000192",
+    "customer_id": "CUST-1016",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-09-16",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000193",
+    "customer_id": "CUST-1028",
+    "request_type": "LOGIN_ISSUE",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-08-02",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000194",
+    "customer_id": "CUST-1027",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "LOW",
+    "status": "OPEN",
+    "created_date": "2026-08-31",
+    "sla_hours": 24
+  },
+  {
+    "request_id": "SR-000195",
+    "customer_id": "CUST-1087",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "created_date": "2026-07-28",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000196",
+    "customer_id": "CUST-1030",
+    "request_type": "LOAN_QUERY",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "created_date": "2026-06-07",
+    "sla_hours": 4
+  },
+  {
+    "request_id": "SR-000197",
+    "customer_id": "CUST-1074",
+    "request_type": "TRANSACTION_DISPUTE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-08-11",
+    "sla_hours": 48
+  },
+  {
+    "request_id": "SR-000198",
+    "customer_id": "CUST-1052",
+    "request_type": "ADDRESS_UPDATE",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "created_date": "2026-07-23",
+    "sla_hours": 8
+  },
+  {
+    "request_id": "SR-000199",
+    "customer_id": "CUST-1023",
+    "request_type": "FEE_QUERY",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_date": "2026-06-05",
+    "sla_hours": 72
+  },
+  {
+    "request_id": "SR-000200",
+    "customer_id": "CUST-1066",
+    "request_type": "REFUND_QUERY",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "created_date": "2026-06-29",
+    "sla_hours": 24
+  }
+]

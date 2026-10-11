@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+Account Blocked Policy
+
+Policy ID:
+ACC-001
+
+Version:
+1.0
+
+Domain:
+Account
+
+Applicable Intent:
+ACCOUNT_BLOCKED
+
+Issue:
+Customer reports that their account is blocked or restricted.
+
+Agent Procedure:
+1. Verify the customer's identity.
+2. Check the account status and applicable restriction reason.
+3. Determine whether the restriction can be resolved through a standard process.
+4. Follow the applicable account-access or compliance procedure.
+
+Resolution Guidance:
+Do not disclose sensitive internal risk or fraud-detection information.
+
+Risk Level:
+High
+
+Human Escalation:
+Escalate when the restriction requires compliance, fraud, or operations review.
+
+Agent Response Guidance:
+Explain the available next step without revealing confidential internal controls.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

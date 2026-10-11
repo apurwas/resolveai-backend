@@ -1,0 +1,41 @@
+MOCK BANKING POLICY — RESOLVEAI PROTOTYPE
+
+Policy Title:
+UPI Payment Pending Policy
+
+Policy ID:
+UPI-002
+
+Version:
+1.0
+
+Domain:
+UPI
+
+Applicable Intent:
+UPI_PAYMENT_PENDING
+
+Issue:
+Customer reports that a UPI transaction remains pending.
+
+Agent Procedure:
+1. Verify the customer and retrieve the UPI transaction.
+2. Check transaction timestamp, amount, reference number, and current status.
+3. Determine whether the transaction is still pending or has subsequently been completed or reversed.
+4. Follow the applicable pending-transaction resolution process.
+
+Resolution Guidance:
+Do not classify a pending transaction as failed or successful without verified transaction data.
+
+Risk Level:
+Medium
+
+Human Escalation:
+Escalate when the transaction remains unresolved or status information is inconsistent.
+
+Agent Response Guidance:
+Acknowledge the pending transaction and confirm that its current status is being checked.
+
+IMPORTANT:
+This document is fictional policy content created for the ResolveAI
+portfolio prototype. It does not represent the actual policy of any bank.

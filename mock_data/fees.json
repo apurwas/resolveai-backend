@@ -1,0 +1,1594 @@
+[
+  {
+    "fee_id": "FEE-000001",
+    "customer_id": "CUST-1015",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 500,
+    "date": "2026-08-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000002",
+    "customer_id": "CUST-1099",
+    "fee_type": "SMS_CHARGE",
+    "amount": 250,
+    "date": "2026-06-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000003",
+    "customer_id": "CUST-1018",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 150,
+    "date": "2026-09-02",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000004",
+    "customer_id": "CUST-1059",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-09-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000005",
+    "customer_id": "CUST-1083",
+    "fee_type": "NEFT_FEE",
+    "amount": 250,
+    "date": "2026-05-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000006",
+    "customer_id": "CUST-1016",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 25,
+    "date": "2026-06-27",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000007",
+    "customer_id": "CUST-1035",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 500,
+    "date": "2026-09-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000008",
+    "customer_id": "CUST-1026",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-05-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000009",
+    "customer_id": "CUST-1065",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-09-17",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000010",
+    "customer_id": "CUST-1065",
+    "fee_type": "NEFT_FEE",
+    "amount": 50,
+    "date": "2026-05-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000011",
+    "customer_id": "CUST-1061",
+    "fee_type": "NEFT_FEE",
+    "amount": 500,
+    "date": "2026-07-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000012",
+    "customer_id": "CUST-1066",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 500,
+    "date": "2026-08-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000013",
+    "customer_id": "CUST-1028",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-06-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000014",
+    "customer_id": "CUST-1058",
+    "fee_type": "ATM_FEE",
+    "amount": 100,
+    "date": "2026-09-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000015",
+    "customer_id": "CUST-1030",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 25,
+    "date": "2026-05-02",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000016",
+    "customer_id": "CUST-1002",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-07-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000017",
+    "customer_id": "CUST-1025",
+    "fee_type": "IMPS_FEE",
+    "amount": 500,
+    "date": "2026-06-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000018",
+    "customer_id": "CUST-1003",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-09-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000019",
+    "customer_id": "CUST-1051",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-07-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000020",
+    "customer_id": "CUST-1022",
+    "fee_type": "ATM_FEE",
+    "amount": 100,
+    "date": "2026-09-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000021",
+    "customer_id": "CUST-1084",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 50,
+    "date": "2026-08-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000022",
+    "customer_id": "CUST-1011",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-04-19",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000023",
+    "customer_id": "CUST-1046",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-08-30",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000024",
+    "customer_id": "CUST-1001",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-09-17",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000025",
+    "customer_id": "CUST-1003",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-04-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000026",
+    "customer_id": "CUST-1064",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 250,
+    "date": "2026-04-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000027",
+    "customer_id": "CUST-1035",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-08-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000028",
+    "customer_id": "CUST-1021",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-08-03",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000029",
+    "customer_id": "CUST-1071",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 25,
+    "date": "2026-09-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000030",
+    "customer_id": "CUST-1080",
+    "fee_type": "NEFT_FEE",
+    "amount": 500,
+    "date": "2026-04-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000031",
+    "customer_id": "CUST-1040",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-08-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000032",
+    "customer_id": "CUST-1019",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 100,
+    "date": "2026-05-17",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000033",
+    "customer_id": "CUST-1060",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-05-14",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000034",
+    "customer_id": "CUST-1061",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 500,
+    "date": "2026-06-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000035",
+    "customer_id": "CUST-1033",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-06-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000036",
+    "customer_id": "CUST-1027",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 50,
+    "date": "2026-06-30",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000037",
+    "customer_id": "CUST-1011",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-08-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000038",
+    "customer_id": "CUST-1024",
+    "fee_type": "SMS_CHARGE",
+    "amount": 25,
+    "date": "2026-07-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000039",
+    "customer_id": "CUST-1089",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-08-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000040",
+    "customer_id": "CUST-1023",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-09-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000041",
+    "customer_id": "CUST-1069",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-09-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000042",
+    "customer_id": "CUST-1005",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-06-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000043",
+    "customer_id": "CUST-1068",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-04-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000044",
+    "customer_id": "CUST-1049",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 25,
+    "date": "2026-06-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000045",
+    "customer_id": "CUST-1002",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-06-23",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000046",
+    "customer_id": "CUST-1058",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-08-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000047",
+    "customer_id": "CUST-1008",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 25,
+    "date": "2026-09-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000048",
+    "customer_id": "CUST-1077",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-06-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000049",
+    "customer_id": "CUST-1054",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-09-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000050",
+    "customer_id": "CUST-1074",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-06-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000051",
+    "customer_id": "CUST-1070",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-10-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000052",
+    "customer_id": "CUST-1044",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-05-02",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000053",
+    "customer_id": "CUST-1041",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-09-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000054",
+    "customer_id": "CUST-1064",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 50,
+    "date": "2026-07-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000055",
+    "customer_id": "CUST-1073",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-06-07",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000056",
+    "customer_id": "CUST-1028",
+    "fee_type": "IMPS_FEE",
+    "amount": 150,
+    "date": "2026-09-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000057",
+    "customer_id": "CUST-1025",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 25,
+    "date": "2026-04-19",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000058",
+    "customer_id": "CUST-1058",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 50,
+    "date": "2026-09-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000059",
+    "customer_id": "CUST-1014",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-06-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000060",
+    "customer_id": "CUST-1073",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-05-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000061",
+    "customer_id": "CUST-1061",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-06-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000062",
+    "customer_id": "CUST-1064",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 50,
+    "date": "2026-09-03",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000063",
+    "customer_id": "CUST-1004",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 100,
+    "date": "2026-07-15",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000064",
+    "customer_id": "CUST-1091",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 100,
+    "date": "2026-06-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000065",
+    "customer_id": "CUST-1015",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-05-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000066",
+    "customer_id": "CUST-1022",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-06-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000067",
+    "customer_id": "CUST-1001",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-07-17",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000068",
+    "customer_id": "CUST-1032",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-08-27",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000069",
+    "customer_id": "CUST-1029",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 100,
+    "date": "2026-07-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000070",
+    "customer_id": "CUST-1017",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-08-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000071",
+    "customer_id": "CUST-1012",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 150,
+    "date": "2026-09-30",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000072",
+    "customer_id": "CUST-1019",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-08-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000073",
+    "customer_id": "CUST-1076",
+    "fee_type": "SMS_CHARGE",
+    "amount": 25,
+    "date": "2026-08-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000074",
+    "customer_id": "CUST-1094",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-09-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000075",
+    "customer_id": "CUST-1075",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-06-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000076",
+    "customer_id": "CUST-1061",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 150,
+    "date": "2026-04-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000077",
+    "customer_id": "CUST-1003",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 500,
+    "date": "2026-08-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000078",
+    "customer_id": "CUST-1054",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-07-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000079",
+    "customer_id": "CUST-1041",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-08-31",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000080",
+    "customer_id": "CUST-1061",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-04-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000081",
+    "customer_id": "CUST-1060",
+    "fee_type": "IMPS_FEE",
+    "amount": 100,
+    "date": "2026-05-14",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000082",
+    "customer_id": "CUST-1004",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-07-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000083",
+    "customer_id": "CUST-1045",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 500,
+    "date": "2026-07-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000084",
+    "customer_id": "CUST-1075",
+    "fee_type": "IMPS_FEE",
+    "amount": 100,
+    "date": "2026-09-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000085",
+    "customer_id": "CUST-1049",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-09-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000086",
+    "customer_id": "CUST-1014",
+    "fee_type": "IMPS_FEE",
+    "amount": 500,
+    "date": "2026-09-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000087",
+    "customer_id": "CUST-1041",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-09-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000088",
+    "customer_id": "CUST-1022",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 150,
+    "date": "2026-05-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000089",
+    "customer_id": "CUST-1052",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 500,
+    "date": "2026-07-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000090",
+    "customer_id": "CUST-1094",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-06-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000091",
+    "customer_id": "CUST-1033",
+    "fee_type": "NEFT_FEE",
+    "amount": 250,
+    "date": "2026-06-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000092",
+    "customer_id": "CUST-1066",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 150,
+    "date": "2026-09-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000093",
+    "customer_id": "CUST-1028",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-09-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000094",
+    "customer_id": "CUST-1002",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-07-27",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000095",
+    "customer_id": "CUST-1040",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-09-27",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000096",
+    "customer_id": "CUST-1066",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-06-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000097",
+    "customer_id": "CUST-1085",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-05-12",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000098",
+    "customer_id": "CUST-1015",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-05-31",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000099",
+    "customer_id": "CUST-1038",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-08-31",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000100",
+    "customer_id": "CUST-1011",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-09-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000101",
+    "customer_id": "CUST-1007",
+    "fee_type": "NEFT_FEE",
+    "amount": 250,
+    "date": "2026-05-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000102",
+    "customer_id": "CUST-1099",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 150,
+    "date": "2026-05-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000103",
+    "customer_id": "CUST-1094",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-08-14",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000104",
+    "customer_id": "CUST-1042",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-05-18",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000105",
+    "customer_id": "CUST-1035",
+    "fee_type": "IMPS_FEE",
+    "amount": 150,
+    "date": "2026-07-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000106",
+    "customer_id": "CUST-1058",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-08-24",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000107",
+    "customer_id": "CUST-1016",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-05-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000108",
+    "customer_id": "CUST-1053",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-06-15",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000109",
+    "customer_id": "CUST-1024",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 500,
+    "date": "2026-10-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000110",
+    "customer_id": "CUST-1022",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-08-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000111",
+    "customer_id": "CUST-1096",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 150,
+    "date": "2026-04-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000112",
+    "customer_id": "CUST-1096",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 25,
+    "date": "2026-07-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000113",
+    "customer_id": "CUST-1043",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-08-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000114",
+    "customer_id": "CUST-1001",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-09-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000115",
+    "customer_id": "CUST-1071",
+    "fee_type": "IMPS_FEE",
+    "amount": 150,
+    "date": "2026-08-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000116",
+    "customer_id": "CUST-1038",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-06-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000117",
+    "customer_id": "CUST-1059",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-09-05",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000118",
+    "customer_id": "CUST-1079",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-05-24",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000119",
+    "customer_id": "CUST-1067",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-09-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000120",
+    "customer_id": "CUST-1016",
+    "fee_type": "SMS_CHARGE",
+    "amount": 25,
+    "date": "2026-06-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000121",
+    "customer_id": "CUST-1001",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-09-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000122",
+    "customer_id": "CUST-1050",
+    "fee_type": "IMPS_FEE",
+    "amount": 500,
+    "date": "2026-04-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000123",
+    "customer_id": "CUST-1020",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 50,
+    "date": "2026-08-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000124",
+    "customer_id": "CUST-1088",
+    "fee_type": "NEFT_FEE",
+    "amount": 50,
+    "date": "2026-06-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000125",
+    "customer_id": "CUST-1095",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-04-14",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000126",
+    "customer_id": "CUST-1069",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-06-08",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000127",
+    "customer_id": "CUST-1095",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 250,
+    "date": "2026-09-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000128",
+    "customer_id": "CUST-1050",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-07-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000129",
+    "customer_id": "CUST-1039",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-05-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000130",
+    "customer_id": "CUST-1055",
+    "fee_type": "NEFT_FEE",
+    "amount": 100,
+    "date": "2026-06-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000131",
+    "customer_id": "CUST-1032",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-09-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000132",
+    "customer_id": "CUST-1077",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-05-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000133",
+    "customer_id": "CUST-1036",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-08-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000134",
+    "customer_id": "CUST-1056",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-08-02",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000135",
+    "customer_id": "CUST-1058",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-05-23",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000136",
+    "customer_id": "CUST-1011",
+    "fee_type": "SMS_CHARGE",
+    "amount": 25,
+    "date": "2026-04-17",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000137",
+    "customer_id": "CUST-1078",
+    "fee_type": "IMPS_FEE",
+    "amount": 500,
+    "date": "2026-07-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000138",
+    "customer_id": "CUST-1089",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-05-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000139",
+    "customer_id": "CUST-1019",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 250,
+    "date": "2026-07-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000140",
+    "customer_id": "CUST-1020",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-04-24",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000141",
+    "customer_id": "CUST-1034",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 500,
+    "date": "2026-09-30",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000142",
+    "customer_id": "CUST-1009",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-07-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000143",
+    "customer_id": "CUST-1098",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-06-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000144",
+    "customer_id": "CUST-1053",
+    "fee_type": "ATM_FEE",
+    "amount": 150,
+    "date": "2026-07-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000145",
+    "customer_id": "CUST-1049",
+    "fee_type": "IMPS_FEE",
+    "amount": 250,
+    "date": "2026-05-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000146",
+    "customer_id": "CUST-1033",
+    "fee_type": "SMS_CHARGE",
+    "amount": 250,
+    "date": "2026-04-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000147",
+    "customer_id": "CUST-1035",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 150,
+    "date": "2026-06-15",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000148",
+    "customer_id": "CUST-1057",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 500,
+    "date": "2026-09-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000149",
+    "customer_id": "CUST-1013",
+    "fee_type": "ATM_FEE",
+    "amount": 250,
+    "date": "2026-08-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000150",
+    "customer_id": "CUST-1035",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 500,
+    "date": "2026-09-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000151",
+    "customer_id": "CUST-1018",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 250,
+    "date": "2026-09-10",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000152",
+    "customer_id": "CUST-1089",
+    "fee_type": "IMPS_FEE",
+    "amount": 50,
+    "date": "2026-08-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000153",
+    "customer_id": "CUST-1084",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-06-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000154",
+    "customer_id": "CUST-1077",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 100,
+    "date": "2026-10-03",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000155",
+    "customer_id": "CUST-1020",
+    "fee_type": "NEFT_FEE",
+    "amount": 50,
+    "date": "2026-09-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000156",
+    "customer_id": "CUST-1068",
+    "fee_type": "SMS_CHARGE",
+    "amount": 250,
+    "date": "2026-09-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000157",
+    "customer_id": "CUST-1064",
+    "fee_type": "SMS_CHARGE",
+    "amount": 500,
+    "date": "2026-07-12",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000158",
+    "customer_id": "CUST-1018",
+    "fee_type": "NEFT_FEE",
+    "amount": 50,
+    "date": "2026-07-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000159",
+    "customer_id": "CUST-1082",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 150,
+    "date": "2026-07-16",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000160",
+    "customer_id": "CUST-1021",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 100,
+    "date": "2026-06-09",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000161",
+    "customer_id": "CUST-1003",
+    "fee_type": "ATM_FEE",
+    "amount": 100,
+    "date": "2026-09-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000162",
+    "customer_id": "CUST-1021",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-05-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000163",
+    "customer_id": "CUST-1018",
+    "fee_type": "IMPS_FEE",
+    "amount": 500,
+    "date": "2026-07-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000164",
+    "customer_id": "CUST-1014",
+    "fee_type": "IMPS_FEE",
+    "amount": 25,
+    "date": "2026-04-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000165",
+    "customer_id": "CUST-1054",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-08-19",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000166",
+    "customer_id": "CUST-1081",
+    "fee_type": "SMS_CHARGE",
+    "amount": 100,
+    "date": "2026-05-12",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000167",
+    "customer_id": "CUST-1003",
+    "fee_type": "SMS_CHARGE",
+    "amount": 500,
+    "date": "2026-06-24",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000168",
+    "customer_id": "CUST-1015",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-06-07",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000169",
+    "customer_id": "CUST-1078",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 50,
+    "date": "2026-09-19",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000170",
+    "customer_id": "CUST-1034",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-09-27",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000171",
+    "customer_id": "CUST-1007",
+    "fee_type": "ATM_FEE",
+    "amount": 50,
+    "date": "2026-05-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000172",
+    "customer_id": "CUST-1032",
+    "fee_type": "IMPS_FEE",
+    "amount": 50,
+    "date": "2026-06-08",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000173",
+    "customer_id": "CUST-1012",
+    "fee_type": "ATM_FEE",
+    "amount": 25,
+    "date": "2026-08-20",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000174",
+    "customer_id": "CUST-1026",
+    "fee_type": "CARD_ANNUAL_FEE",
+    "amount": 250,
+    "date": "2026-04-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000175",
+    "customer_id": "CUST-1055",
+    "fee_type": "ATM_FEE",
+    "amount": 100,
+    "date": "2026-09-11",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000176",
+    "customer_id": "CUST-1017",
+    "fee_type": "ATM_FEE",
+    "amount": 500,
+    "date": "2026-07-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000177",
+    "customer_id": "CUST-1069",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 100,
+    "date": "2026-10-01",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000178",
+    "customer_id": "CUST-1064",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 150,
+    "date": "2026-06-14",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000179",
+    "customer_id": "CUST-1097",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-07-29",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000180",
+    "customer_id": "CUST-1040",
+    "fee_type": "NEFT_FEE",
+    "amount": 500,
+    "date": "2026-09-22",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000181",
+    "customer_id": "CUST-1040",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-08-28",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000182",
+    "customer_id": "CUST-1057",
+    "fee_type": "NEFT_FEE",
+    "amount": 50,
+    "date": "2026-04-24",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000183",
+    "customer_id": "CUST-1039",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-09-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000184",
+    "customer_id": "CUST-1080",
+    "fee_type": "ATM_FEE",
+    "amount": 100,
+    "date": "2026-08-04",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000185",
+    "customer_id": "CUST-1001",
+    "fee_type": "SMS_CHARGE",
+    "amount": 150,
+    "date": "2026-04-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000186",
+    "customer_id": "CUST-1027",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 100,
+    "date": "2026-05-31",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000187",
+    "customer_id": "CUST-1020",
+    "fee_type": "SMS_CHARGE",
+    "amount": 50,
+    "date": "2026-07-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000188",
+    "customer_id": "CUST-1072",
+    "fee_type": "NEFT_FEE",
+    "amount": 25,
+    "date": "2026-05-31",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000189",
+    "customer_id": "CUST-1053",
+    "fee_type": "IMPS_FEE",
+    "amount": 50,
+    "date": "2026-08-23",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000190",
+    "customer_id": "CUST-1041",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 25,
+    "date": "2026-04-13",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000191",
+    "customer_id": "CUST-1017",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 150,
+    "date": "2026-04-15",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000192",
+    "customer_id": "CUST-1024",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-10-03",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000193",
+    "customer_id": "CUST-1066",
+    "fee_type": "NEFT_FEE",
+    "amount": 150,
+    "date": "2026-04-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000194",
+    "customer_id": "CUST-1050",
+    "fee_type": "SMS_CHARGE",
+    "amount": 500,
+    "date": "2026-06-23",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000195",
+    "customer_id": "CUST-1020",
+    "fee_type": "LATE_PAYMENT_FEE",
+    "amount": 50,
+    "date": "2026-07-25",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000196",
+    "customer_id": "CUST-1010",
+    "fee_type": "IMPS_FEE",
+    "amount": 150,
+    "date": "2026-06-21",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000197",
+    "customer_id": "CUST-1070",
+    "fee_type": "NEFT_FEE",
+    "amount": 250,
+    "date": "2026-07-26",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000198",
+    "customer_id": "CUST-1080",
+    "fee_type": "SMS_CHARGE",
+    "amount": 150,
+    "date": "2026-06-06",
+    "status": "CHARGED"
+  },
+  {
+    "fee_id": "FEE-000199",
+    "customer_id": "CUST-1011",
+    "fee_type": "ACCOUNT_MAINTENANCE_FEE",
+    "amount": 50,
+    "date": "2026-05-08",
+    "status": "CHARGED"
+  }
+]
